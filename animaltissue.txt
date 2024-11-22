@@ -1,0 +1,47 @@
+1. Animal_tissue: Nervous tissue, muscular tissue, connective tissue, epithelial tissue
+2. Nervous_tissue: control and coordination
+3. soma: cellbody in neuron
+4. neuroglia: physiological and metabolic support to neuron
+
+5. muscular_tissue: skeletal, cardiac, smooth
+6. skeletal: striated, cylindrical, voluntary, multi-nucleated
+7. function_skeletal: motion, movement, posture detection
+8. cardiac: cylindrical, heart, branched, striated, uni-nucleated, involuntary
+9. function_cardiac: pumps blood to all parts of the body
+10. smooth: internal organs, spindle shape, fusi form shape, single centred nucleus, non striated
+11. smooth: iris of eye, uterus, gall bladder, walls of hollow internal organs, airways to lungs, stomach intestines, urinary bladder
+
+12. connective_tissue: tendon, ligament, blood, chondrocyte, bone or osteocyte, adipose, areolar
+13. tendon: bone to muscle
+14. ligament: bone to bone
+15. blood: plasma 55percent, rbc, wbc, platelets
+16. rbc: erythrocyte, carry gases
+17. wbc: leukocyte, defend mechanism
+18. platelets: thrombocyte, blood clotting
+
+19. chondrocyte: cartilage, hyaline cartilage, elastic cartilage
+20. hyaline_cartilage: tip of nose, rib cage, throat
+21. elastic_cartilage: ear
+
+
+22. matrix_of_bone: calcium, sulphur salt
+
+23. adipose_tissue: adipocytes, triglicarate, fats
+
+24. func_chondrocyte: protects body of injury movements, protective covering for delicate tissues, support bone joints, cushion lubricate flexibility to movements.
+25. func_adipose: reduces heat loss through skin, energy reserve, support, protects organs
+26. func_Areolar: strength, elasticity, support
+
+27. Areloar_tissue: packing material, present around blood vessels, present in nerves, present in body organs
+
+28. epithelial_tissue: squamous, cuboidal, columnar
+29. simple_squamous: helps in diffusion, alveolar linning, air sacs, blood vessels
+30. stratified_squamous: keratinised layers of skins, vagina, lining of the mouth, oesophagus, epiglottis, pharynx, tongue
+31. simple_cuboidal: kidney tubular lining
+32. stratified_cuboidal: mammary gland, swat gland, salivary gland
+33. simple_columnar: lines gastrointestinal tracts, stomach to anus, gallbladder
+34. ciliated_columnar: uterine, fallopian tubes, uterus
+35. stratified_columnar: male urethra
+36. pseudo_stratified_ciliated_columnar: respiratory passage of ducts of many glands
+
+

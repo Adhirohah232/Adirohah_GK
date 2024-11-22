@@ -1,0 +1,118 @@
+{
+  "operations": [
+    {
+      "name": "talwar",
+      "carried_by": "India",
+      "year": 1999,
+      "purpose": "To blockade Pakistans maritime trade routes and secure Indias coastal borders during the Kargil War."
+    },
+    {
+      "name": "safed sagar",
+      "carried_by": "Indian Air Force",
+      "year": 1999,
+      "purpose": "To provide air support to Indian ground forces during the Kargil War by targeting infiltrators and recapturing strategic positions."
+    },
+    {
+      "name": "pawan",
+      "carried_by": "India",
+      "year": 1987,
+      "purpose": "To assist the Indian Peace Keeping Force (IPKF) in Sri Lanka to neutralize the LTTE and enforce the Indo-Sri Lanka Accord."
+    },
+    {
+      "name": "meghdoot",
+      "carried_by": "India",
+      "year": 1984,
+      "purpose": "To secure control of the Siachen Glacier and preempt Pakistans attempts to occupy the region."
+    },
+    {
+      "name": "cactus",
+      "carried_by": "India",
+      "year": 1988,
+      "purpose": "To thwart a coup attempt in the Maldives and restore the government at the request of Maldivian authorities."
+    },
+    {
+      "name": "neer",
+      "carried_by": "India",
+      "year": 1988,
+      "purpose": "To assist the Maldives during the coup attempt by providing humanitarian aid and stabilizing the situation under the request of the Maldivian government."
+    },
+    {
+      "name": "neer",
+      "carried_by": "India",
+      "year": 1999,
+      "purpose": "To assist in rescuing and evacuating Indian civilians stranded in the flood-affected areas of Gujarat."
+    },
+    {
+      "name": "sanjeevni",
+      "carried_by": "India",
+      "year": 2020,
+      "purpose": "To provide medical aid, including essential medicines, equipment, and supplies, to countries in need during the COVID-19 pandemic."
+    },
+    {
+      "name": "vijay",
+      "carried_by": "India",
+      "year": 1961,
+      "purpose": "To liberate Goa, Daman, and Diu from Portuguese colonial rule and integrate them into India."
+    },
+    {
+      "name": "ganga",
+      "carried_by": "India",
+      "year": 1971,
+      "purpose": "To airlift and evacuate Indian nationals and refugees from East Pakistan (now Bangladesh) during the Bangladesh Liberation War."
+    },
+    {
+      "name": "ganga",
+      "carried_by": "India",
+      "year": 2022,
+      "purpose": "To evacuate Indian citizens from Ukraine amidst the Russian invasion by airlifting them through various routes."
+    },
+    {
+      "name": "dost",
+      "carried_by": "India",
+      "year": 2023,
+      "purpose": "To provide humanitarian aid, including medical assistance and relief materials, to Turkey and Syria following the devastating earthquakes."
+    },
+    {
+      "name": "kaveri",
+      "carried_by": "India",
+      "year": 2023,
+      "purpose": "To evacuate Indian citizens from Sudan during the ongoing conflict and provide them with safe passage back to India."
+    },
+    {
+      "name": "ajay",
+      "carried_by": "India",
+      "year": 2023,
+      "purpose": "To evacuate Indian citizens from Israel during the Israel-Hamas conflict."
+    },
+    {
+      "name": "karuna",
+      "carried_by": "India",
+      "year": 2008,
+      "purpose": "To provide humanitarian assistance and disaster relief to Myanmar in the aftermath of Cyclone Nargis."
+    },
+    {
+      "name": "karuna",
+      "carried_by": "India",
+      "year": 2005,
+      "purpose": "To provide humanitarian aid and disaster relief to Jammu and Kashmir after the devastating earthquake in the region."
+    },
+    {
+      "name": "shakti",
+      "carried_by": "India",
+      "year": 1998,
+      "purpose": "To conduct a series of nuclear tests in Pokhran, Rajasthan, showcasing India's nuclear capability and enhancing its defense preparedness."
+    },
+    {
+      "name": "indravati",
+      "carried_by": "India",
+      "year": 1995,
+      "purpose": "To support the United Nations Mission in Haiti (UNMIH) by deploying Indian naval forces for peacekeeping and humanitarian assistance."
+    },
+    {
+      "name": "sadhbav",
+      "carried_by": "India",
+      "year": 2021,
+      "purpose": "To provide humanitarian aid and relief to Myanmar during the COVID-19 pandemic, including supplying vaccines and medical assistance."
+    }
+  ]
+}

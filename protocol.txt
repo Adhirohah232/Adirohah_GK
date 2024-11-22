@@ -1,0 +1,16 @@
+1. Montreal_protocol: Depletion of ozone layer (finalized in 1987 is a global agreement to protect the stratospheric ozone layer by phasing out the production and consumption of ozone-depleting substances ODS)
+2. Kigali_agreement: Amendment to Montreal protocol(This protocol was started in year - - 2016)
+3. Kyoto_Protocol: Green house gas (an international treaty that was adopted in 1997 and went into effect in 2005)
+4. Bonn_convention: Migratory species related(This protocol was started in year -1979).
+5. Vienna_convention: Protection of ozone(This protocol was started in year - - 1961).
+6. Basel_convention: Hazardous disposal(This protocol was started in year - - 1989).
+7. Cartegena_protocol: Biosafety, Biological diversity(This protocol was started in year - - 2000)
+8. Ramsar_convention: convention on wetland(especially for waterfowl habitat intergovernmental treaty signed in 1971 in Ramsar Iran)
+9. Minamata_convention: protection from mercury (The Minamata Convention on Mercury was signed at the Diplomatic Conference in Kumamoto Japan on October 10 2013- The convention was adopted by delegates from over 140 countries in Geneva on January 19 2013)
+10. Stockholm_convention: persistent organic pollutant
+11. Gothenburg_protocol: abate Acidification Eutrophication and Ground-level Ozone(This protocol was started in year - - 1999)
+
+
+12. Kyoto_protocol_coveredgas:  carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, sulfurhexafluoride.
+
+

@@ -1,0 +1,59 @@
+{
+"schemes": [
+    {
+        "scheme_name": "She_box_portal",
+        "under_ministry": "",
+        "statements": {"Union women and child development min- Annapurna Devi launched the scheme", "it also features a designated nodal officer to enable real-time monitoring of complaints, ensuring that grievances are processed in timely manner.", "to cover for managing complaints of sexual harasment- both govm and private sectors"},
+        "whatItis": "scheme",
+        "description": "no description",
+        "month": "August",
+        "year": "2024"
+    },
+    {
+        "scheme_name": "Min of statistics",
+        "under_ministry": "Min of statistics",
+        "statements": {"India projected population by 2036 would be 152.2 crore"},
+        "whatItis": "ministry",
+        "description": "according to 25th edition of women and men in India 2023 publication by min of statistics and programme implementation, Indias projected population by 2036 would be 152.2 crore.",
+        "month": "August",
+        "year": "2024"
+    },
+    {
+        "scheme_name": "National education policy",
+        "under_ministry": "",
+        "statements": {"students from class 6-8 expected to participate in a bagless period for 10 days"},
+        "whatItis": "policy",
+        "description": "",
+        "month": "August",
+        "year": "2024"
+    },
+    {
+        "scheme_name": "National payments corporation of India",
+        "under_ministry": "",
+        "statements": {"Newly formed ceo- Lalitha Nataraj", "new entity name: NPCI-Bhi services Ltd(NBSL)"},
+        "whatItis": "corporation",
+        "description": "",
+        "month": "August",
+        "year": "2024"
+    },
+    {
+        "scheme_name": "Safal",
+        "under_ministry": "",
+        "statements": {"a competency-based assesment framework for classes 3, 5 and 8 for students", "focus on testing for core concepts. Application-bases questions and higher order thinking skills", "provide diagnostic data and insights for each school to be used for development"},
+        "whatItis": "scheme",
+        "description": "Grade- 3,5,8 are targeted by the CBSE safal(structured assesment for analyzing learning)",
+        "month": "August",
+        "year": "2024"
+    },
+    {
+        "scheme_name": "DengueALL",
+        "under_ministry": "",
+        "statements": {"Developed by India by ICMR and Panacea Biotec", "recognised as the countrys first Indigenous dengue vaccine", "It is under phase 3 clinical trials"},
+        "whatItis": "medicine-name",
+        "description": "",
+        "month": "August",
+        "year": "2024"
+    },
+
+]
+}

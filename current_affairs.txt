@@ -1,0 +1,259 @@
+{
+    "ca": [
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Goa",
+            "term_to_ask": "Samudra pratap is a vessel",
+            "scheme": 0,
+            "whatItis": "commissoned",
+            "description": "Samudra pratap is the first indigenously developed pollution control vessel launched in Goa.",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "state",
+            "state": "MP",
+            "city": "shivpuri",
+            "scheme": 1,
+            "term_to_ask": "PM janman",
+            "whatItis": "scheme",
+            "description": "janjati Adivasi Nyaya Maa Abhiyan to facilitate vulnerabe tribes with housing, road connectivity, piped water supply, mobile medical units, hostel construction, Anganwadi and skill development centres.",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "state",
+            "state": "Himachal Pradesh",
+            "city": "",
+            "scheme": 1,
+            "term_to_ask": "Mukhya mantri sukh shiksha Yojna",
+            "whatItis": "scheme",
+            "description": "to get benefit of this yojna, the max income yearly would be- 1L/annum Eligibility- for widows, destitute, divorced women with children parents of disabled children parents of children under 18 years will receive monthly financial assistance of 1k/month from the state. state's assistance for the the children pursuing undergraduate, postgraduate, diploma or vocational courses to meet tuition fes and hostel costs.",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "state",
+            "state": "Nagaland",
+            "term_to_ask": "Disaster Risk management insurance solution",
+            "scheme": 0,
+            "whatItis": "launched",
+            "description": "Country's first to implement a Disaster Risk management insurance solution(DRTPS) Mou with Sbi General Issurance for DRTPS The insurance will cover the entire Nagland, adding the govm will pay the insurance premium and if disaster happens the insurer will come to the rescue for 3 years(2024-2027)",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Rajasthan",
+            "term_to_ask": "Avyana Aviation Academy",
+            "scheme": 0,
+            "whatItis": "launched",
+            "description": "Avyana Aviation Academy launched at Kishangarh Airport Rajasthan",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "UP",
+            "term_to_ask": "Semicon India 2024",
+            "scheme": 0,
+            "whatItis": "related",
+            "description": "Modi inaugurated semicon India 2024 at India expo mart in Greater Noida, UP. theme: Shaping the semiconductor future",
+            "month": "September",
+            "year": "2024"
+        },
+        {
+            "genre": "state",
+            "city": "varanasi",
+            "state": "UP",
+            "term_to_ask": "vedic 3d museum",
+            "scheme": 0,
+            "whatItis": "launched",
+            "description": "Up govm constructed a vedic-3d museum in Varanasi at the main building of sampurnanand sanskrit university,  the state of the art museum will be dedicated to Indian Astrology, astronomy & Vedic literature.",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "Gorakhpur",
+            "state": "UP",
+            "term_to_ask": "Jatayu conservation & breeding center",
+            "scheme": 0,
+            "whatItis": "inaugurated",
+            "description": "Yogi Adityanath inagugrated the Jatayu conservation & Breeding centre in Gorakhpur forest div - the centre is the world’s first dedicated conservation and breeding facility for the Asian king Vulture(red head vulture).",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Rajasthan",
+            "term_to_ask": "Study of teal carbon undertaken at keoladeo National park",
+            "scheme": 0,
+            "whatItis": "inaugurated",
+            "description": "India’s 1st study on ‘teal carbon’ undertaken at keoladeo NP in Rajasthan highlighted the significance of wetland conservation to address the challenges of climate adaptation and resilience. This project sought to develop holistic nature based solution to address climate change.",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "West Bengal",
+            "term_to_ask": "Aprajita women and child",
+            "scheme": 0,
+            "whatItis": "passed",
+            "description": "Aprajita women and child bill for stringent punishment in cases of sexual assualt",
+            "month": "September",
+            "year": 2024
+        },
+         {
+            "genre": "state",
+            "city": "",
+            "state": "Andaman and Nicobar",
+            "term_to_ask": "Sri Vijaya puram",
+            "scheme": 0,
+            "whatItis": "new-capital name",
+            "description": "Govm decided to rename the capital of Port Blair as Sri vijaya Puram",
+            "month": "September",
+            "year": 2024
+        },
+         {
+            "genre": "state",
+            "city": "",
+            "state": "Delhi",
+            "term_to_ask": "Ashtalaxmi Mahatsov",
+            "scheme": 0,
+            "whatItis": "a website to promote northeast, recently launched",
+            "description": "Union min Shri Jyotiraditya M. Scindia launched the Ashtalaxmi Mahotsav website in NewDelhi- underscoring the govm commitment to promoting the NEs vast potential on a national & global stage.",
+            "month": "September",
+            "year": 2024
+        },
+         {
+            "genre": "state",
+            "city": "",
+            "state": "ladakh",
+            "term_to_ask": "5 new district",
+            "scheme": 0,
+            "whatItis": "recently inagugrated",
+            "description": "Modi congratulated people of Ladakh for creating 5 new districts",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "term_to_ask": "Veera Mahasamrat",
+            "scheme": 0,
+            "whatItis": "launched",
+            "description": "The world first fast-charging e-bus is named Veera Mahasamrat launched in Bengaluru by Veera Vahana & Exponent Energy. It will first operate on the Bengaluru-hydrebad route.",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "palghar",
+            "state": "Maharashtra",
+            "term_to_ask": "vadhvan port",
+            "scheme": 0,
+            "whatItis": "launched",
+            "description": "Modi lays foundation stone for Vadhvan Port worth- 76k crore to Palghar, Maharashtra. Hands out transponder sets & kisan credit cards to fisherman beneficiaries.",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "Nagpur",
+            "state": "Maharashtra",
+            "term_to_ask": "India 1st oxygen bird park",
+            "scheme": 0,
+            "whatItis": "inagugrated",
+            "description": "Ind 1st oxygen bird park inaugrated by Nitin Gadkari in Nagpur. also known as Amrit mahotsav parkm developed by National Highway Authority of Ind",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Odisha",
+            "term_to_ask": "India's 1st round the clock GRAIN_ATM",
+            "scheme": 0,
+            "whatItis": "Launched",
+            "description": "India's 1st round the clock GRAIN_ATM recently launched in Odisha",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Indian-ocean",
+            "term_to_ask": "Diego Garcia Island",
+            "scheme": 0,
+            "whatItis": "Located",
+            "description": "recently seen in news, Diego Garcia Island located in Indian Ocean",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Australia",
+            "term_to_ask": "Right to disconnect Law",
+            "scheme": 0,
+            "whatItis": "Implemented",
+            "description": "right to disconnet law recently implemented in Australia",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Assam",
+            "term_to_ask": "ERI SILK",
+            "scheme": 0,
+            "whatItis": "related to",
+            "description": "Eri Silk, recently seen in the news, is a Geographical Indication (GI) & Oeko-Tex certified product",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Indira Gandhi Airport Delhi",
+            "term_to_ask": "First in India to achieve net zero carbon emmision status",
+            "scheme": 0,
+            "whatItis": "achieved",
+            "description": "Delhi airport has became the 1st in India to achieve net 0 carbon emmision status",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "USA",
+            "term_to_ask": "India’s second-largest Liquefied Natural Gas (LNG) supplier",
+            "scheme": 0,
+            "whatItis": "",
+            "description": "USA has became India’s second-largest Liquefied Natural Gas (LNG) supplier",
+            "month": "September",
+            "year": 2024
+        },
+        {
+            "genre": "state",
+            "city": "",
+            "state": "Lebanon and Isreal",
+            "term_to_ask": "divided by the blue line, a boundary set by UN",
+            "scheme": 0,
+            "whatItis": "listed",
+            "description": "USA has became India’s second-largest Liquefied Natural Gas (LNG) supplier",
+            "month": "September",
+            "year": 2024
+        }
+        
+
+    ]
+    
+}

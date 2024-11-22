@@ -1,0 +1,125 @@
+{
+    "award_section": [
+        {
+            "genre": "award",
+            "country": "Fiji",
+            "award_name": "Companion of the order of Fiji",
+            "who_awarded": "Droupadi Murmu",
+            "awardee_designation": "president of India",
+            "description": "Highest honour of FIJI was given to Droupadi Murmu during her visit.",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "Bhutan",
+            "award_name": "Order of Druk Gyalpo",
+            "who_awarded": "Narendra Modi",
+            "awardee_designation": "PM of India",
+            "description": "highest honorary award of Bhutan",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "Baharin",
+            "award_name": "King Hamad order",
+            "who_awarded": "PM Narendra Modi",
+            "awardee_designation": "PM of India",
+            "description": "highest honorary award of Baharin",
+            "month": "August",
+            "year": "2024"
+        },
+         {
+            "genre": "award",
+            "country": "India",
+            "award_name": "National Young Geoscientist Award",
+            "who_awarded": "Dr Ashutosh Pandey",
+            "awardee_designation": "Assistant proffesor at IISER",
+            "description": "Ashutosh Pandey from IISER Thiruvananthapuram was awarded the National Young Geoscientist Award 2023 by the Hon'ble President of India, Smt. Droupadi Murmu for his research on the petrogenesis and geodynamic evolution of the Eastern Dharwar Craton in Southern India.",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "India",
+            "award_name": "Vigyan Ratna Award",
+            "who_awarded": "professor G Padmanabhan",
+            "awardee_designation": "former director of Indian inst of science",
+            "description": "Govm announced Rashritya VIgyan Purashkar, 33 awards were presented to distinguish scientists",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "India",
+            "award_name": "Indian National science",
+            "who_awarded": "Professor Dhiraj Mohan Banerejee",
+            "awardee_designation": "former director of Indian inst of science",
+            "description": "the Union min of mines instituted the National Geoscience award in 1966 as the national minerals award, Its name was changed to national geoscience award in 2009.",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "Asia",
+            "award_name": "Ramon Magsaysay Award in 2024",
+            "who_awarded": "Hayao Miyazaki",
+            "awardee_designation": "japense Anime director",
+            "description": "Established in 1957, Ramon Magsaysay Award is also known as Asia's Nobel Prize. 2024 awardees:Nguyen Thi Ngoc Phuong, Karma phuntsho, Rural doctor movement, Farwiza Farhan",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "Asia",
+            "award_name": "Ramon Magsaysay Award in 2024",
+            "who_awarded": "Nguyen Thi Ngoc Phuong",
+            "awardee_designation": "professor from Vietnam",
+            "description": "Established in 1957, Ramon Magsaysay Award is also known as Asia's Nobel Prize. 2024 awardees:Nguyen Thi Ngoc Phuong, Karma phuntsho, Rural doctor movement, Farwiza Farhan",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "Asia",
+            "award_name": "Ramon Magsaysay Award in 2024",
+            "who_awarded": "Karma phuntshog",
+            "awardee_designation": "From Bhutan",
+            "description": "Established in 1957, Ramon Magsaysay Award is also known as Asia's Nobel Prize. 2024 awardees:Nguyen Thi Ngoc Phuong, Karma phuntsho, Rural doctor movement, Farwiza Farhan",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "Asia",
+            "award_name": "Ramon Magsaysay Award in 2024",
+            "who_awarded": "Rural Doctor Movement",
+            "awardee_designation": "From Thailand",
+            "description": "Established in 1957, Ramon Magsaysay Award is also known as Asia's Nobel Prize. 2024 awardees:Nguyen Thi Ngoc Phuong, Karma phuntsho, Rural doctor movement, Farwiza Farhan",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "Asia",
+            "award_name": "Ramon Magsaysay Award in 2024",
+            "who_awarded": "Farwiza Farhan",
+            "awardee_designation": "From Indonesia",
+            "description": "Established in 1957, Ramon Magsaysay Award is also known as Asia's Nobel Prize. 2024 awardees:Nguyen Thi Ngoc Phuong, Karma phuntsho, Rural doctor movement, Farwiza Farhan",
+            "month": "August",
+            "year": "2024"
+        },
+        {
+            "genre": "award",
+            "country": "India",
+            "award_name": "Dadasaheb phalke lifetime achievement award",
+            "who_awarded": "Mithun Chakraborty",
+            "awardee_designation": "Actor from India",
+            "description": "Mithun chakraborty has been awarded with Dadasaheb Phalke Award at the 70th National Film Awards",
+            "month": "August",
+            "year": "2024"
+        }
+
+    ]
+}

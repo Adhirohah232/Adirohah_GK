@@ -1,0 +1,12 @@
+1. schedules1: list of states and UTs
+2. schedules2: salaries, pension, allowance and emoluments
+3. schedule3: oaths and affirmations
+4. schedule4: nomination of members of Rajya Sabha.
+5. schedule5: administration and control of scheduled and tribal areas
+6. schedule6: administration of tribal areas in NE states
+7. schedule7: deals with 3 concurrent lists union states and concurrent list
+8. schedule8: official language
+9. schedule9: land reforms and abolition of the Zamindari system
+10. schedule10: defection laws
+11. schedule11: contains the provisions that specify the powers authority and responsibilities of Panchayats
+12. schedule12: contains the provisions that specify the powers authority and responsibilities of municipalities

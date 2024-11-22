@@ -1,0 +1,22 @@
+1. Veld: south Africa
+2. Steppe: Europe, Asia
+3. Down: Australia
+4. Savanna: East Africa
+5. Compose: Brazil
+6. Llanos: Venenzuala
+7. Pampas: Argentina
+8. Priaries: USA
+9. pustaz : Hungary
+
+10. Alpine_moist_meadows: Greater Himalayas(found in India)
+11. Alpine_arid_pastures_steppe: Trans Himalayas(found in India)
+12. Hillside_graslands: Mid-elevation ranges in Himalayas(India)
+13. Chaurs: Himalayan foothills(found in India)
+14. Terai_grassland: Ganga floodplains, Brahmaputra floodplains(found in India)
+15. Phumdis: Manipur(floating grassland in Loktak lake manipur India)
+16. Banni_&_vidis: Gujrat
+17. Savannas: western India, peninsular India
+18. Plateau_grassland: Satpuras, maikal hills(found in India)
+19. Valley_grassland: Satpuras, maikal hills(found in India)
+20. Dry_grassland: Tamilnadu, Andrapradesh
+21. Shola_grassland: Westernghats

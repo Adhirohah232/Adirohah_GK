@@ -1,0 +1,31 @@
+1. plant_tissue: meristematic tissue, permanent tissue, apical, intercalary, lateral.
+2. meristimatic_tissue: apical, intercalary, lateral.
+3. apical: primary growth, root apical, shoot apical, present at the tip of plants.
+4. intercalary: primary growth, present in between the nodes, helps in growing grass, example is sugarcane.
+5. lateral: secondary growth, present in width of the plant.
+6. permanent: simple tissue, complex tissue.
+7. simple: ground tissue, parenchyma, collenchyma, sclerenchyma.
+
+8. parenchyma: storage, living-cell, loosely packed, large intercellular spaces, chlorenchyma, aerenchyma, large vacuoles.
+9. chlorenchyma: chloroplasts, photosynthesis
+10. aerenchyma: consists of huge air gaps, buoyancy to the plants, found in aquatic plants.
+11. collenchyma: flexibility, cell wall- pectin, uneven or irregular thickening- cell wall, large vacuoles.
+12. sclerenchyma: strength support, even or regular thickening- cell wall, cell wall - lignin, example is coconut husk.
+
+13. complex_tissue: xylem, phloem.
+14. xylem: flow- unidirectional, transfer- water and mineral
+15. xylem: tracheids, vessels, xylem-parenchyma, xylem-fiber.
+16. phloem: sieve tubes, companion cell, phloem-parenchyma, phloem-fiber.
+
+17. tracheids: dead.
+18. vessels: dead.
+19. xylem_parenchyma: living.
+20. xylem_fiber: dead.
+21. phloem_parenchyma: living.
+22. phloem-fiber: dead.
+23. seivetube_cells: living.
+24. companion_cells: living.
+
+25. meristimatic_characteristics: highly active, dense cytoplasm, prominent nucleas, thin cellulosic cell walls, lack vacoules, tiny vacoules.
+26. permanent_characteristics: large vacoules, thick walls, dead or living, termination of cell divisions. 
+
