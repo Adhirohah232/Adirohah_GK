@@ -4,17 +4,17 @@ from ca import interactive_quiz
 from ca_award import CAQuiz
 from CA_scheme import QuizGenerator
 from operations import OperationsQuiz
+from defence_loc import AutomatedQuiz
 
 print("🙏WELCOME🙏 to Ask_GK 😃\n")
-print('1. Important protocols\n')
-print('2. Shifting cultivations\n')
-print('3. Grasslands\n')
-print('4. Indian Tribes\n')
-print('5. Tissues\n')
-print('6. polity\n')
-print('7. National parks\n')
-print('8. Defence\n')
-print('9. Current Affairs\n')
+print("-------------------------------\n")
+print("1. Environment\n")
+print('2. Indian Tribes\n')
+print('3. Tissues\n')
+print('4. polity\n')
+print('5. Defence\n')
+print('6. History\n')
+print('7. Current Affairs\n')
 
 filename = ''
 file_input = int(
@@ -22,14 +22,22 @@ file_input = int(
 print('---------------------------------------------------\n')
 if file_input > 0 and file_input < 10:
     if file_input == 1:
-        filename = './protocols.txt'
+        print('ip: Important protocols\n')
+        print('sc: Shifting cultivations\n')
+        print('gl: Grasslands\n')
+        print('np: National parks\n')
+        env_input = input('choose one: ')
+        if env_input == 'ip':
+            filename = './protocol.txt'
+        elif env_input=='sc':
+            filename = './shifting_cultivation.txt'
+        elif env_input=='np':
+            filename = './nationalparks.txt'   
+        else:
+            filename = './grassland.txt'
     elif file_input == 2:
-        filename = './shifting_cultivation.txt'
-    elif file_input == 3:
-        filename = './grassland.txt'
-    elif file_input == 4:
         filename = './tribes.txt'
-    elif file_input == 5:
+    elif file_input == 3:
         print('pt: plant tissue\n')
         print('at: animal tissue\n')
         tissue_input = input('choose one: ')
@@ -37,7 +45,7 @@ if file_input > 0 and file_input < 10:
             filename = './planttissue.txt'
         else:
             filename = './animaltissue.txt'
-    elif file_input == 6:
+    elif file_input == 4:
         print('bf: borrowed features\n')
         print('pts: constitutional parts\n')
         print('sl: schedules\n')
@@ -49,15 +57,26 @@ if file_input > 0 and file_input < 10:
             filename = './part.txt'
         elif polity_input == 'sl':
             filename = './schedules.txt'
-    elif file_input == 7:
-        filename = './nationalparks.txt'
-    elif file_input == 8:
+
+    elif file_input == 5:
         print('opt: operations\n')
+        print("loc: Defence Institutes and locations")
         op_input = input('choose one from above: ')
         if op_input == 'opt':
             OperationsQuiz().start_quiz()
             exit()
-    elif file_input == 9:
+        if op_input == 'loc':
+            AutomatedQuiz().start_quiz()
+            exit()
+    elif file_input == 6:
+        print('srmi: Social and religious movements in India\n')
+
+        history_input = input('choose one: ')
+        if history_input == 'srmi':
+            filename = './socio_religious.txt'
+            print("🍁 for the questions(who started the Religious movement) below- options will be given for the names.🍁\n")
+
+    elif file_input == 7:
         start_again = 'n'
         repeat = True
         while (repeat):

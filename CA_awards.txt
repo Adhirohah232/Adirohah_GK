@@ -30,7 +30,7 @@
             "month": "August",
             "year": "2024"
         },
-         {
+        {
             "genre": "award",
             "country": "India",
             "award_name": "National Young Geoscientist Award",
@@ -120,6 +120,5 @@
             "month": "August",
             "year": "2024"
         }
-
     ]
 }

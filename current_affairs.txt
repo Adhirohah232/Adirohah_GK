@@ -83,7 +83,7 @@
             "term_to_ask": "Jatayu conservation & breeding center",
             "scheme": 0,
             "whatItis": "inaugurated",
-            "description": "Yogi Adityanath inagugrated the Jatayu conservation & Breeding centre in Gorakhpur forest div - the centre is the world’s first dedicated conservation and breeding facility for the Asian king Vulture(red head vulture).",
+            "description": "Yogi Adityanath inagugrated the Jatayu conservation & Breeding centre in Gorakhpur forest div - the centre is the world\u2019s first dedicated conservation and breeding facility for the Asian king Vulture(red head vulture).",
             "month": "September",
             "year": 2024
         },
@@ -94,7 +94,7 @@
             "term_to_ask": "Study of teal carbon undertaken at keoladeo National park",
             "scheme": 0,
             "whatItis": "inaugurated",
-            "description": "India’s 1st study on ‘teal carbon’ undertaken at keoladeo NP in Rajasthan highlighted the significance of wetland conservation to address the challenges of climate adaptation and resilience. This project sought to develop holistic nature based solution to address climate change.",
+            "description": "India\u2019s 1st study on \u2018teal carbon\u2019 undertaken at keoladeo NP in Rajasthan highlighted the significance of wetland conservation to address the challenges of climate adaptation and resilience. This project sought to develop holistic nature based solution to address climate change.",
             "month": "September",
             "year": 2024
         },
@@ -109,7 +109,7 @@
             "month": "September",
             "year": 2024
         },
-         {
+        {
             "genre": "state",
             "city": "",
             "state": "Andaman and Nicobar",
@@ -120,7 +120,7 @@
             "month": "September",
             "year": 2024
         },
-         {
+        {
             "genre": "state",
             "city": "",
             "state": "Delhi",
@@ -131,7 +131,7 @@
             "month": "September",
             "year": 2024
         },
-         {
+        {
             "genre": "state",
             "city": "",
             "state": "ladakh",
@@ -234,10 +234,10 @@
             "genre": "state",
             "city": "",
             "state": "USA",
-            "term_to_ask": "India’s second-largest Liquefied Natural Gas (LNG) supplier",
+            "term_to_ask": "India\u2019s second-largest Liquefied Natural Gas (LNG) supplier",
             "scheme": 0,
             "whatItis": "",
-            "description": "USA has became India’s second-largest Liquefied Natural Gas (LNG) supplier",
+            "description": "USA has became India\u2019s second-largest Liquefied Natural Gas (LNG) supplier",
             "month": "September",
             "year": 2024
         },
@@ -248,12 +248,9 @@
             "term_to_ask": "divided by the blue line, a boundary set by UN",
             "scheme": 0,
             "whatItis": "listed",
-            "description": "USA has became India’s second-largest Liquefied Natural Gas (LNG) supplier",
+            "description": "USA has became India\u2019s second-largest Liquefied Natural Gas (LNG) supplier",
             "month": "September",
             "year": 2024
         }
-        
-
     ]
-    
 }
