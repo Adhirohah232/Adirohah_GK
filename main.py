@@ -25,6 +25,7 @@ if file_input > 0 and file_input < 10:
         print('ip: Important protocols\n')
         print('sc: Shifting cultivations\n')
         print('gl: Grasslands\n')
+        print('lake: lakes\n')
         print('np: National parks\n')
         env_input = input('choose one: ')
         if env_input == 'ip':
@@ -32,7 +33,9 @@ if file_input > 0 and file_input < 10:
         elif env_input=='sc':
             filename = './shifting_cultivation.txt'
         elif env_input=='np':
-            filename = './nationalparks.txt'   
+            filename = './nationalparks.txt' 
+        elif env_input=='lake':
+            filename = './lakes.txt'  
         else:
             filename = './grassland.txt'
     elif file_input == 2:
