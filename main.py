@@ -52,13 +52,24 @@ if file_input > 0 and file_input < 10:
         print('bf: borrowed features\n')
         print('pts: constitutional parts\n')
         print('sl: schedules\n')
+        print('amd: amendments\n')
 
         polity_input = input('choose one: ')
         if polity_input == 'bf':
             filename = './borrowedfeatures.txt'
         elif polity_input == 'pts':
             filename = './part.txt'
-        elif polity_input == 'sl':
+        elif polity_input == 'amd':
+            amd_input = input('amd1, amd2, amd3, amd4(choose one): ')
+            if(amd_input == 'amd1'):
+                filename = './amendments.txt'
+            elif(amd_input == 'amd2'):
+                filename = './amendments2.txt'
+            elif(amd_input == 'amd3'):
+                filename = './amendments3.txt'
+            elif(amd_input == 'amd4'):
+                filename = './amendments4.txt'
+        else:
             filename = './schedules.txt'
 
     elif file_input == 5:
@@ -292,7 +303,7 @@ for i in range(limit):
                 f'Remark: INCORRECT🥲, the correct answer is: {correct_region}')
         print('.................................\n')
 
-    elif filename == './part.txt' or filename == './schedules.txt':
+    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt':
         askword = get_random_word(terms)
         askword_values = terms[askword].split(', ')
         random.shuffle(askword_values)
