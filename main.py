@@ -27,6 +27,11 @@ if file_input > 0 and file_input < 10:
         print('gl: Grasslands\n')
         print('lake: lakes\n')
         print('np: National parks\n')
+        print('rp: Important revolutions and its purpose\n')
+        print('rf: Importand revolutions and their fathers\n')
+        print('ied: Important days related to environment\n')
+        print('iy: Importand years related to environment\n')
+        
         env_input = input('choose one: ')
         if env_input == 'ip':
             filename = './protocol.txt'
@@ -34,8 +39,14 @@ if file_input > 0 and file_input < 10:
             filename = './shifting_cultivation.txt'
         elif env_input=='np':
             filename = './nationalparks.txt' 
-        elif env_input=='lake':
-            filename = './lakes.txt'  
+        elif env_input=='rp':
+            filename = './revolution_purpose.txt'  
+        elif env_input=='rf':
+            filename = './revolution_father.txt'
+        elif env_input=='ied':
+            filename = './imp_envdays.txt' 
+        elif env_input=='iy':
+            filename = './imp_envyears.txt'  
         else:
             filename = './grassland.txt'
     elif file_input == 2:

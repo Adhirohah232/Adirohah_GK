@@ -1,0 +1,16 @@
+1. world_environment_day: 5 June(theme 2024- land restoration desertification and drought resilence)
+2. world_water_day: 22 March(theme 2024- water for peace)
+3. earth_day: 22 April(theme 2024- planet vs plastic)
+4. world_wetlands_day: 2 February(theme 2024- conserve the wetlands mankinds future depends on them)
+5. world_forestry_day: 21 March
+6. world_oceans_day: 8 June(theme 2024- awaken new depths)
+7. world_soil_day: 5 December
+8. international_day_of_forest: 21 March
+9.	world_mountain_day: 11 December
+10.	world_biodiversity_day: 22 May
+11.	international_day_for_the_prevention_of_the_exploitation_of_the_environment_in_war_and_armed_conflict: 6 November
+12.	global_recycling_day: 18 March
+13.	international_day_of_clean_air_for_blue_skies: 7 September
+14.	world_climate_day: 15 May
+15. world_ozone_day: 16 September(theme 2024- advancing climate action)
+16. world_wildlife_day: 3 march(theme 2024- connecting people & planet exploring digital innovation in wildlife conservation)

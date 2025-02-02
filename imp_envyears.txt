@@ -1,0 +1,11 @@
+1. Project_Tiger: 1973
+2. Water_Prevention_Control_of_Pollution_Act: 1974
+3. Forest_Conservation_Act: 1980
+4. Air_Prevention_&_Control_of_Pollution_Act: 1981
+5. Environmental_Protection_Act: 1986
+6. National_Forest_Policy: 1988
+7. Project_Elephant: 1992
+8. National_Biodiversity_Act: 2002
+9. Project_Snow_Leopard: 2009
+10.	National_Green_TribunalAct: 2010
+11. wildlife_protection_act: 1972
