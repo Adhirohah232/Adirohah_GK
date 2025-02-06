@@ -1,0 +1,23 @@
+	1. Jamshedpur_Jharkand: Steel City of India
+	2. Ahmedabad_Gujarat: Manchester of India
+	3. Bangalore_Karnataka: Silicon Valley of India
+	4. Chennai_TamilNadu: Detroit of India
+	5. Hyderabad_Telangana: City of Pearls
+	6. Kolkata_wb: City of Joy
+	7. Mumbai_Maharashtra: Financial Capital of India 
+	8. Jaipur_Rajasthan: Pink City
+	9. Varanasi_UP: Spiritual Capital of India
+	10.	Amritsar_Punjab: Golden City of India
+	11.	Indore_MP: Cleanest City of India
+	12.	Surat_Gujrat: Diamond City of India
+	13.	Bhubaneswar_Odisha: Temple City of India
+	14.	Pune_Maharashtra: Oxford of the East
+	15.	Mysuru_Karnataka: City of Palaces
+	16.	Lucknow_UP: City of Nawabs
+	17.	Patna_Bihar: Ancient City of Learning
+	18.	Shillong_Meghalaya: Scotland of the East
+	19.	Thiruvananthapuram_Kerala: Evergreen City of India
+	20.	Udaipur_Rajasthan: City of Lakes
+	21.	Agra_Up: City of Taj
+	22.	Coimbatore_TN: Manchester of South India
+	23.	Dibrugarh_Assam: Tea City of India

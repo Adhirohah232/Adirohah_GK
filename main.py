@@ -9,7 +9,7 @@ from defence_loc import AutomatedQuiz
 print("🙏WELCOME🙏 to Ask_GK 😃\n")
 print("-------------------------------\n")
 print("1. Environment\n")
-print('2. Indian Tribes\n')
+print('2. India\n')
 print('3. Tissues\n')
 print('4. polity\n')
 print('5. Defence\n')
@@ -50,7 +50,13 @@ if file_input > 0 and file_input < 10:
         else:
             filename = './grassland.txt'
     elif file_input == 2:
-        filename = './tribes.txt'
+        print('cnn: Indian cities and their nicknames\n')
+        print('itb: Indian tribes\n')
+        ind_input = input('choose one: ')
+        if(ind_input=='cnn'):
+            filename = './city_nicknames.txt'
+        elif(ind_input == 'itb'):
+            filename = './tribes.txt'
     elif file_input == 3:
         print('pt: plant tissue\n')
         print('at: animal tissue\n')
@@ -95,12 +101,15 @@ if file_input > 0 and file_input < 10:
             exit()
     elif file_input == 6:
         print('srmi: Social and religious movements in India\n')
+        print('fih: first in History\n')
 
         history_input = input('choose one: ')
         if history_input == 'srmi':
             filename = './socio_religious.txt'
             print("🍁 for the questions(who started the Religious movement) below- options will be given for the names.🍁\n")
-
+        elif history_input=='fih':
+            filename = './firstIn_history.txt'
+            
     elif file_input == 7:
         start_again = 'n'
         repeat = True
@@ -314,7 +323,7 @@ for i in range(limit):
                 f'Remark: INCORRECT🥲, the correct answer is: {correct_region}')
         print('.................................\n')
 
-    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt':
+    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt' or filename =='./city_nicknames.txt':
         askword = get_random_word(terms)
         askword_values = terms[askword].split(', ')
         random.shuffle(askword_values)
