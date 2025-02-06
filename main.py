@@ -108,8 +108,15 @@ if file_input > 0 and file_input < 10:
             filename = './socio_religious.txt'
             print("🍁 for the questions(who started the Religious movement) below- options will be given for the names.🍁\n")
         elif history_input=='fih':
-            filename = './firstIn_history.txt'
-            
+            fih_input = input('choose one: fih1, fih2, fih3: ')
+            if fih_input=='fih1':
+                filename = './firstIn_history.txt'
+            if fih_input=='fih2':
+                filename = './firstIn_history2.txt'
+            if fih_input=='fih3':
+                filename = './firstIn_history3.txt'
+
+
     elif file_input == 7:
         start_again = 'n'
         repeat = True
