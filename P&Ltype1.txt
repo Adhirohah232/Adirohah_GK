@@ -1,0 +1,28 @@
+﻿1. By selling an article for Rs 72, there is a loss of 10%. In order to gain 5%, its selling price should be :
+[87, 85, 80, 84]
+Ans: 84
+
+
+2. There is a profit of 20% on the cost price of an article. The % of profit, when calculated on selling price is
+[16 ⅔%, 20%, 33 ⅓%, none]
+Ans: 16 ⅔%
+
+
+3. A piece of land came to a person through three middleman each gaining 20%. If the person purchased the land for & 3,45,600 the original cost of the land was:
+[100000, 150000, 175000, 200000]
+Ans: 200000
+
+
+4. A clock was sold for 7144. If the percentage of profit was numerically equal to the cost price, the cost of the clock was
+[72, 80, 90, 100]
+Ans: 80
+
+
+5. If books bought at prices from 150 to 300 are sold at prices ranging from R250 to 7350, what is the greatest possible profit that might be made in selling 15 books ?
+[750, 4250, 3000, cnd]
+Ans: 3000
+
+
+6. If a man reduces the selling price of a fan from Rs. 1,250 to Rs. 1,000, his loss increases by 10%. The cost price of the fan is
+[2400, 2500, 2450, 2350]
+Ans: 2500

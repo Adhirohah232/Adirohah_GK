@@ -5,6 +5,7 @@ from ca_award import CAQuiz
 from CA_scheme import QuizGenerator
 from operations import OperationsQuiz
 from defence_loc import AutomatedQuiz
+from directques import QuizGeneratordirect
 
 print("🙏WELCOME🙏 to Ask_GK 😃\n")
 print("-------------------------------\n")
@@ -14,7 +15,9 @@ print('3. Tissues\n')
 print('4. polity\n')
 print('5. Defence\n')
 print('6. History\n')
-print('7. Current Affairs\n')
+print('7. miscellinous and pyqs\n')
+print('8. quants\n')
+print('9. Current Affairs\n')
 
 filename = ''
 file_input = int(
@@ -115,9 +118,23 @@ if file_input > 0 and file_input < 10:
                 filename = './firstIn_history2.txt'
             if fih_input=='fih3':
                 filename = './firstIn_history3.txt'
+    
 
+    elif file_input==7:
+        print('gapyq: Afcat-geo pyq\n')
+        q_input = input('choose one: ')
+        if q_input=='gapyq':
+            QuizGeneratordirect('./geo_miscellinious.txt')
+            exit()
+    
+    elif file_input==8:
+        print('qp: percentage\n')
+        q_input = input('choose one: ')
+        if q_input=='qp':
+            QuizGeneratordirect('./P&Ltype1.txt')
+            exit()
 
-    elif file_input == 7:
+    elif file_input == 9:
         start_again = 'n'
         repeat = True
         while (repeat):
@@ -145,6 +162,9 @@ if file_input > 0 and file_input < 10:
 
                 if (start_again == 'n'):
                     exit()
+
+
+  
 
 limit = int(input('How many questions do you want me to ask?: '))
 score = 0
