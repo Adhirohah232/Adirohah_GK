@@ -65,7 +65,7 @@ class QuizGeneratordirect:
         # Ask for number of questions
         while True:
             try:
-                num_questions = int(input(f"How many questions would you like to attempt? (max {len(self.questions)}): "))
+                num_questions = int(input(f"🌱 How many questions would you like to attempt? (max {len(self.questions)}): 🌱"))
                 if num_questions <= 0:
                     print("Please enter a positive number.")
                 elif num_questions > len(self.questions):
@@ -86,7 +86,7 @@ class QuizGeneratordirect:
 
         try:
             for i, q in enumerate(selected_questions, 1):
-                print(f"\nQuestion {i}:")
+                print(f"\n🍁 Question {i}:")
                 print(q['question'])
 
                 # Randomize options
@@ -119,10 +119,10 @@ class QuizGeneratordirect:
 
                 # Check answer
                 if user_answer == q['answer']:
-                    print("Correct! \u2713")
+                    print("Correct! ✅")
                     score += 1
                 else:
-                    print(f"Wrong! \u2717 The correct answer was: {q['answer']}")
+                    print(f"Wrong! ❌ The correct answer was: {q['answer']}")
 
             # Display final score
             print("\n" + "=" * 40)
