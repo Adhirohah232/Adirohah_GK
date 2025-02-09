@@ -1,0 +1,28 @@
+﻿1. A train 100 m long takes 9s to cross a man walking at 5 km/h in the direction opposite to that of the train. Find the speed of the train ?
+[34m/s, 35m/s, 50m/s, 65m/s]
+Ans: 35m/s
+
+
+2. A train crosses 2 men running in the direction of train whose speed are 10 km/h and 12 km/h in 5 s and 7s respectively. Find the speed of the train.
+[17km/h, 15km/h, 11km/h, cnd]
+Ans: 17km/h
+
+
+3. A train crosses a pole in 12 seconds and a bridge of length 170 metre in 36 seconds. Then the speed of the train is
+[32.45km/h, 25.5km/h, 30.75km/h, 10.8km/h]
+Ans: 25.5km/h
+
+
+4. A train runs at 76 kmph speed. If it crosses a pole in 36 seconds then what is the length of train.
+[720m, 675m, 760m, 630m]
+Ans: 720m
+
+
+5. A train with a uniform speed passes a platform, 122 metres long, in 17 seconds and a bridge, 210 metres long, in 25 seconds. The speed of the train is
+[46.5km/h, 37.5km/h, 37.6km/h, 39.6km/h]
+Ans: 39.6km/h
+
+
+6. A train passes a man standing on a platform in 8 seconds and also crosses the platform which is 264 metres long in 20 seconds. The length of the train (in metres) is:
+[188, 176, 166, 96]
+Ans: 176

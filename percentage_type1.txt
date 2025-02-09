@@ -1,0 +1,58 @@
+﻿1. If A is 48% more than B and C is 60% less than the sum of A and B, then A is what percentage more than c?
+[50.8, 49.2, 50.2, 49.8]
+Ans: 49.2
+
+
+2. Katrina is 40% more rich than vicky and vicky is 60% less rich than salman, If salman is 60% more than karan. Which of the following options is correct?
+[salman is 60% more than vicky, katrina is 54% less than salman, vicky is 36% less than karan, karan is 10.4% more than katrina]
+Ans: vicky is 36% less than karan
+
+
+3. In an exam in which full marks were 500, Ritik scored 25% more marks than salman, salman scored 60% more marks than karan, and karan scored 20% less marks than Rohit. If Ritik scored 80% marks then the percentage of marks obtained by Rohit is:\
+[65%, 54%, 50%, 58%]
+Ans: 50%
+
+
+4. Neha’s weight is 140% of Tina’s weight. Mina’s weight is 90% of Lina’s weight. Lina weights twice as much as Tina. If Neha’s weight is x% of Mina’s weight, then x is equal to:
+[64 2/9, 77 7/9, 90. 128 4/7]
+Ans: 77 7/9
+
+
+5. In a test consisting of 140 questions, a candidate correctly answered 70% of the first 80 questions. What percentage of the remaming questions does the candidate need to correctly answer to score 60% in the test?
+[40%, 45 ⅓%, 46 ⅔%, 35%]
+Ans: 46 ⅔%
+
+
+6. In an exam of 300 marks a student gets 75 marks. If she had scored 6 more marks she would have attained passing percentage. What is the passing percent?
+[25, 30, 35, 27]
+Ans: 27
+
+
+7. If the difference between 62% and 80% of a number is 198, then the difference between 92% and 56% of the number will be
+[1100, 360, 3564, 396]
+Ans: 396
+
+
+8. Sonu saves 15% of her income. If her income increases by 20% and she still saves the same amount as before, then what is the percentage increase in her expenditure? (Correct to one decimal place)
+[22.8, 24.2, 23.8, 23.5]
+Ans: 23.5
+
+
+9. The population of a city increased by 30% in the first year and decreased by 15% in the next year. If the present population is 11,050, then the population 2 years ago was:
+[10050, 99000, 10000, 99500]
+Ans: 10000
+
+
+10. In a constituency, 55% of the total number of voters are males and the rest are females. If 40% of males are illiterate and 40% of the females are iterate, then by what percent is the number of literate males more than that of illiterate females?
+[22 8/11, 18 2/9, 22 2/9, 18]
+Ans: 22 2/9
+
+
+11. In an election, 3 candidates contested. The first candidate got 40% of votes and the second got 36% of votes. If total number of votes polled were 36,000, Find the number of votes scored by the third candidate.
+[8040, 8640, 9360, 9640]
+Ans: 8640
+
+
+12. In an examination 53% students failed in Science, 48% failed in Mathematics. If 40% students failed in both subjects then what percentage of student passed in both subjects.
+[43%, 51%, 49%, 39%]
+Ans: 39%

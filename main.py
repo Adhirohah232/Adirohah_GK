@@ -129,9 +129,42 @@ if file_input > 0 and file_input < 10:
     
     elif file_input==8:
         print('qp: percentage\n')
+        print('pnl: profit and loss\n')
+        print('sdt: speed distance time\n')
+
         q_input = input('choose one: ')
-        if q_input=='qp':
-            QuizGeneratordirect('./P&Ltype1.txt')
+
+        if q_input=='pnl':
+            print('pnl1: type-1\n')
+            print('pnl2: type-2(dishonest shopkeeper)\n')
+            qp_input = input('choose one: ')
+            if(qp_input== 'pnl1'):
+                QuizGeneratordirect('./P&Ltype1.txt')
+            elif(qp_input== 'pnl2'):
+                QuizGeneratordirect('./P&L_dishonest_shopkeeper.txt')
+            exit()
+
+        elif q_input=='sdt':
+            print('sdt1: type-1\n')
+            print('sdt2: type-2(train)\n')
+            qp_input = input('choose one: ')
+            if(qp_input== 'sdt1'):
+                QuizGeneratordirect('./SDT_type1.txt')
+    
+            elif(qp_input== 'sdt2'):
+                QuizGeneratordirect('./SDT_train.txt')
+            exit()    
+            
+
+        elif q_input=='qp':
+            print('qp1: type-1\n')
+            print('qp2: type-2\n')
+            qp_input = input('choose one: ')
+            if(qp_input== 'qp1'):
+                QuizGeneratordirect('./percentage_type1.txt')
+    
+            elif(qp_input== 'qp2'):
+                QuizGeneratordirect('./percent_type_2.txt')
             exit()
 
     elif file_input == 9:

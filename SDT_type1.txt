@@ -1,0 +1,48 @@
+﻿1. An athlete wins a race by covering a distance of 600 m in 5 minutes. What is his speed in km per hour?
+[7km, 7.2km, 8km, 6km]
+Ans:7.2km
+
+
+2. Aman promised his GF to meet her at sharp 1 pm inside the Park. While travelling Aman's bicycle got Punctured, so he took 20% more time than his planned time reach Park. His speed in this case is what percent less than his usual speed?
+[16, 16.67, 15, 12.26]
+Ans: 16.67
+
+
+3. Aman promised his GF to meet her at sharp 1 pm inside the Park. While travelling Aman's bicycle got Punctured, so he took 20% more time than his planned time to reach Park. If earlier he use to take 100 minutes. Find out when he will reach Now?
+[1.3hrs, 1hrs, 1.2hrs, none]
+Ans:1.2hrs
+
+
+4. As Aman was late, He saw his GF with another boy at a distance of 450m and start to chase her with the speed of 12km/h. Speed of his Gf is 10 km/hr. Find the distance travelled by her GF before when he caught her ?
+[2000m, 2250m, 2480m, 3000m]
+Ans: 2250m
+
+
+5. A Constable follows a thief who is 90 meter ahead of the Constable. If the Constable and the thief run at the speed of 9 km/hr and 8.5 km/hr respectively. In how much time would the constable catch the thief ?
+[648m, 500m, 600m, none]
+Ans: 648m
+
+
+6. A person covers a certain distance with 40% of his Speed then he will be 7 min late. Find the time taken by him to cover this distance now?
+[32/5, 14/3, 35/3, none]
+Ans: 35/3
+
+
+7. A person covers a certain distance with certain speed if he increases his speed by 11 km/hr. Then he will be 12 min. early. By how much time he will be late if he reduces his speed by 10 km/hr, if his initial speed is 55 km/hr.
+[12, 15, 16, 43]
+Ans: 16
+
+
+8. Ravi travels by bus from city A to city B at an average speed of 30 km/hr. Raju travels by taxi from city A to city B at an average speed of 54 km/hr and takes 10 hours lesser than time taken by Ravi. What is the distance (in km) between the two cities?
+[765, 675, 880, 987]
+Ans: 675
+
+
+9. Speed of father and his son is 15 km/h and 18 km/h. They start from A towards B. If son leaves 49 minutes later than his father and reaches 29 minutes later than his father. Find the distance between A and B.
+[30km, 35km, 60km, 70km]
+Ans: 30km
+
+
+10. When a child goes to school at the speed of 7 km/h reaches 7 minutes late and when he goes at the speed of 8 km/h he reaches 8 minutes early. Find the distance between his home and school.
+[15km, 10km, 12km, 14km]
+Ans: 14km

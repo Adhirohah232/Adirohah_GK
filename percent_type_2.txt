@@ -1,0 +1,18 @@
+﻿1. When the price of clothes was reduced by 25%, the quantity of clothes sold increased by20%. What was the effect on gross receipt of the shop?
+[5%increase, 5%decrease, 10%decrease, 10%increase]
+Ans: 10%decrease
+
+
+2. If A's salary is 50% more than that of B, then B's salary is less than A's by? 
+[33%,  40.33%, 45.33%,  33.33%]
+Ans: 33.33%
+
+
+3. Water taxes increased by 20% but its consumption is decreased by 20%. Then the increase or decrease in the expenditure of the money is
+[5%decrease, 4%decrease, No change, 4%increase]
+Ans: 4%decrease
+
+
+4. If the length of a rectangle is increased by 40%, and the breadth is decreased by 20%, then the area of rectangle increases by x%. Then the value of x is:
+[20, 12, 16, 8]
+Ans: 12

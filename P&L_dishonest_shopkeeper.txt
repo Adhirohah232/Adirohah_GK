@@ -1,0 +1,19 @@
+﻿1. A dishonest dealer claims to sell his products at 24% loss on the cost price but uses 100 g weight instead of 200 g weight. His profit percentage is:
+[40%, 48%, 52%, 55%]
+Ans: 52%
+
+2. A dishonest merchant promises to sell article at cost price, but he uses 950 gm instead of 1 kg weight. What is his gain percent?
+[5.2%, 5.26%, 5.3%, 5.28%]
+Ans: 5.26%
+
+3. A dishonest shopkeeper promises to sell his goods at its CP but he uses 30% less weight. Find his profit %?
+[25%, 16.66%, 42.66%, none]
+Ans: 42.66%
+
+4. A dishonest shopkeeper promises to sell his goods at 30% profit but he uses 800 gm weight instead of 1 kg. Find his actual profit %?
+[62.5%, 58.33%, 66.66%, 60%]
+Ans: 62.5%
+
+5. A trader cheats both his supplier and his customer by using faulty weights. When he buys from the supplier, he takes 20% more than the indicated weight. When he sells to his customer, he gives 20% less than the indicated weight. If he sells his articles at the cost price, what is his net profit%?
+[50, 66.66, 44, none]
+Ans: 50
