@@ -6,6 +6,7 @@ from CA_scheme import QuizGenerator
 from operations import OperationsQuiz
 from defence_loc import AutomatedQuiz
 from directques import QuizGeneratordirect
+from pairquiz import generate_quizpair
 
 print("🙏WELCOME🙏 to Ask_GK 😃\n")
 print("-------------------------------\n")
@@ -30,6 +31,8 @@ if file_input > 0 and file_input < 10:
         print('gl: Grasslands\n')
         print('lake: lakes\n')
         print('np: National parks\n')
+        print('tr: Tiger reserves\n')
+        print("fsi: famous sites of India\n")
         print('rp: Important revolutions and its purpose\n')
         print('rf: Importand revolutions and their fathers\n')
         print('ied: Important days related to environment\n')
@@ -42,14 +45,20 @@ if file_input > 0 and file_input < 10:
             filename = './shifting_cultivation.txt'
         elif env_input=='np':
             filename = './nationalparks.txt' 
+            # generate_quizpair('./nationalparks.txt')
         elif env_input=='rp':
-            filename = './revolution_purpose.txt'  
+            filename = './revolution_purpose.txt' 
+        elif env_input=='fsi':
+            generate_quizpair('./famoussites_Ind.txt')
         elif env_input=='rf':
             filename = './revolution_father.txt'
         elif env_input=='ied':
             filename = './imp_envdays.txt' 
         elif env_input=='iy':
             filename = './imp_envyears.txt'  
+        elif env_input=='tr':
+            generate_quizpair('./tiger_reserve.txt')
+            # filename = './tiger_reserve.txt' 
         else:
             filename = './grassland.txt'
     elif file_input == 2:
@@ -94,14 +103,24 @@ if file_input > 0 and file_input < 10:
 
     elif file_input == 5:
         print('opt: operations\n')
-        print("loc: Defence Institutes and locations")
+        print("loc: Defence Institutes and locations\n")
+        print("ccf: current chiefs of Armed forces\n")
+        print("moto: services and their motos\n")
+        print("afp: armedforces related projects\n")
+        
         op_input = input('choose one from above: ')
         if op_input == 'opt':
             OperationsQuiz().start_quiz()
             exit()
-        if op_input == 'loc':
-            AutomatedQuiz().start_quiz()
-            exit()
+        elif op_input == 'loc':
+            generate_quizpair('./cmndsInstLOC.txt')
+        elif op_input == 'moto':
+            generate_quizpair('./mottos.txt')
+        elif op_input == 'ccf':
+            generate_quizpair('./current_chiefs.txt')
+        elif op_input == 'afp':
+            filename = './armedforces_projects.txt'
+
     elif file_input == 6:
         print('srmi: Social and religious movements in India\n')
         print('fih: first in History\n')
@@ -383,7 +402,7 @@ for i in range(limit):
                 f'Remark: INCORRECT🥲, the correct answer is: {correct_region}')
         print('.................................\n')
 
-    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt' or filename =='./city_nicknames.txt':
+    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt' or filename =='./city_nicknames.txt' or filename =='./armedforces_projects.txt':
         askword = get_random_word(terms)
         askword_values = terms[askword].split(', ')
         random.shuffle(askword_values)

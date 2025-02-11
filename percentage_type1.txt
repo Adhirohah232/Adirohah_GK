@@ -56,3 +56,11 @@ Ans: 8640
 12. In an examination 53% students failed in Science, 48% failed in Mathematics. If 40% students failed in both subjects then what percentage of student passed in both subjects.
 [43%, 51%, 49%, 39%]
 Ans: 39%
+
+13. 57% of Ranita’s weekly income is equal to 76% of Bhaskar’s weekly income. If Ranita’s weekly income was reduced by ₹400, while Bhaskar’s weekly income did not change, the ratio of the weekly incomes of Ranita and Bhaskar, respectively, would have been 6 : 5. What is Bhaskar’s weekly income (in ₹)?
+[2000, 4000, 3000, 3200]
+Ans: 3000
+
+14. In an election between two candidates, one got 60% of the total valid votes. 25% of the votes were invalid. If the total number of votes was 15,000, then find the number of valid votes that the other candidate got.
+[5550, 4500, 6750, 5000]
+Ans: 4500

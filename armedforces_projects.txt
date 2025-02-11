@@ -1,0 +1,10 @@
+1. Project 15B: INS Vishakhapatnam, INS Imphal, INS Mormugao, INS Surat
+2. Project 15A: INS Kolkata, INS Kochi, INS Chennai
+3. Project 17A: INS Nilgiri, INS Himgiri, INS Udaigiri, INS dunagiri, INS Taragiri, INS Vindhyagiri, INS Mahendragiri
+4. Project 75: INS Kalvari, INS Khanderi, INS Karanj, INS Vela, INS Vagir, INS Vagshir
+5. Project 17: INS Shivalik, INS Satpura, INS Sahyadri
+6. Project 28: INS Kamorta, INS Kadmatt, INS Kiltan, INS Kavaratti
+7. Survey_vessel_project: INS Sandhayak, INS ikshak, INS Nirdehsak, INS Sanshodak
+8. Nuclear_powered_Missle_submerine: INS chakra, INS Arighaat ballistic, INS Arihant, INS Arindhman basllistic
+9. Fast_petrol_vessels: Adamya, Akshar, Amulya, Akshay
+10. Multi_Purpose_vessel_project: INS samarthak, INS Utkarsh

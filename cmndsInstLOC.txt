@@ -1,60 +1,70 @@
- "locations"={
-"Indian Air Force Academy": "Dundigal Telangana",
-"Indian Military Academy": "Dehradun Uttarakhand",
-"Indian Naval Academy": "Ezhimala Kerala",
-"Officers Training Academy Chennai": "Chennai Tamil Nadu",
-"Officers Training Academy Gaya": "Gaya Bihar",
-"Air Force Technical College": "Jalahalli Bengaluru Karnataka",
-"Defence Services Staff College": "Wellington Tamil Nadu",
-"National Defence Academy": "Khadakwasla Pune Maharashtra",
-"Army Air Defence College": "Gopalpur Odisha",
-"College of Defence Management": "Secunderabad Telangana",
-"Army War College": "Mhow Madhya Pradesh",
-"Armed Forces Medical College": "Pune Maharashtra",
-"Military College of Electronics and Mechanical Engineering": "Secunderabad Telangana",
-"National Defence College": "New Delhi",
-"Rashtriya Indian Military College": "Dehradun Uttarakhand",
-"Defence Research and Development Organisation Headquarters": "New Delhi",
-"IAF Flying Institute": "Chennai",
-"College of Air warefare": "Secunderabad Telegana",
-"Hellicopter Training School": "Hakimpet Telegana",
-"IAF School of Physical Fitness": "Belguam",
-"Weapon system school(new)": "Begumpat Hydrebad",
-"Defence Institute of Advance Tech": "pune",
-"Garud Regimental Training Center": "Chandigarh",
-"Basic Flying Training school": "Allahbad",
-"Navigation Training school": "Begumpat",
-"Fixed wing Training Flying": "Yelahka Bengaluru",
-"College of Defence Management": "Secunderabad Telegana",
-"Defence Institute of High Altitude Research": "Leh Ladakh",
-"High Altitude of warfare school": "Gulmargh",
-"Counter Insurgency and Jungle": "Mizoram",
-"Airforce heritage center": "Chandigarh",
-"Western Air Command": "New Delhi",
-"Eastern Air Command": "Shillong Meghalaya",
-"Central Air Command": "Prayagraj Uttar Pradesh",
-"Southern Air Command": "Thiruvananthapuram Kerala",
-"South Western Air Command": "Gandhinagar Gujarat",
-"Training Command": "Bengaluru Karnataka",
-"Maintenance Command": "Nagpur Maharashtra",
-"Northern Air Command": "NONE",
-"Army Western Command": "Chandimandir Haryana",
-"Army Eastern Command": "Kolkata West Bengal",
-"Army Northern Command": "Udhampur Jammu & Kashmir",
-"Army Southern Command": "Pune Maharashtra",
-"Army Central Command": "Lucknow Uttar Pradesh",
-"Army South Western Command": "Jaipur Rajasthan",
-"Army Training Command": "Shimla Himachal Pradesh",
-"Navy Western Naval Command": "Mumbai Maharashtra",
-"Navy Eastern Naval Command": "Visakhapatnam Andhra Pradesh",
-"Navy Southern Naval Command": "Kochi Kerala",
-"Coast Guard Western Region": "Mumbai Maharashtra",
-"Coast Guard Eastern Region": "Chennai Tamil Nadu",
-"Coast Guard North Eastern Region": "Kolkata West Bengal",
-"Coast Guard Andaman and Nicobar Region": "Port Blair Andaman and Nicobar Islands",
-"Coast Guard North Western Region": "Gandhinagar Gujarat"
-
-
-
-
-}
+1. “National Defence Academy”: Khadakvasla, Pune (Maharashtra)
+2. “Indian Military Academy”: Dehradun (Uttarakhand)
+3. “Officer’s Training Academy”: Chennai (Tamil Nadu) and Gaya (Bihar)
+4. “Army War College”: Mhow (Madhya Pradesh)
+5. “Infantry School”: Mhow (Madhya Pradesh)
+6. “College of Materials Management (CMM)”: Jabalpur (M.P)
+7. “AEC Training College and Centre”: Pachmarhi (M.P.)
+8. “Military College of Telecommunication (MCTE)”: Mhow (M.P.)
+9. “Rashtriya Indian Military College (RIMC)”: Dehradun (Uttarakhand)
+10.	“Remount Training School and Depot”: Hempur (Uttarakhand)
+11.	“High Altitude Warfare School (HAWS)”: Gulmarg (J & K)
+12.	“School of Artillery”: Deolali (Maharashtra)
+13.	“College of Military Engineering (CME)”: Pune, Maharashtra
+14.	“Armed Forces Medical College (AFMC)”: Pune, Maharashtra
+15.	“Military Intelligence Training School & Depot”: Pune (Maharashtra)
+16.	“Army School of Physical Training”: Pune, Maharashtra
+17.	“Institute of Military Law”: Kamptee, Maharashtra
+18.	“Combat Army Aviation Training School”: Nasik, Maharashtra
+19.	“Army Air Defence College”: Gopalpur, Orissa
+20.	“Army Service Corps”: Bangalore, Karnataka
+21.	“Counter Insurgency & Jungle Warfare School”: Vairengte, Mizoram
+22.	“Army Medical Corps Centre and School”: Lucknow, UP
+23.	“Remount Training School & Depot”: Saharanpur, Uttar Pradesh
+24.	“Military College of Electronic & Mechanical Engineering”: Secunderabad, Telangana
+25.	“Special Forces Training School”: Nahan, Himachal Pradesh
+26.	“Mechanised Infantry Regimental Centre”: Ahmednagar, Maharashtra
+27.	“Army Ordnance Corps Centre”: Secunderabad, Telangana
+28.	“Ladakh Scouts HQ”: Leh
+29.	“Defence Services Staff College”: Wellington, Tamil Nadu
+30.	“College of Defence Management”: Secunderabad, Telangana
+31.	“Indian Naval Academy”: Ezhimala
+32.	“INS Dronacharya”: Kochi, Kerala
+33.	“Anti Submarine Warfare School”: Kochi, Kerala
+34.	“Naval Institute of Education & Training Technology, INS Venduruthy”: Kochi, Kerala
+35.	“Naval Institute of Aeronautical Technology”: Kochi, Kerala
+36.	“INS Satavahana”: Visakhapatnam, Andhra Pradesh
+37.	“INS Agrani”: Coimbatore
+38.	“INS Chilka”: Odisha
+39.	“INS Shivaji”: Lonavala, Maharashtra
+40.	“INS Hamla”: Mumbai, Maharashtra
+41.	“Naval War College”: Goa
+42.	“INS Valsura”: Jamnagar, Gujarat
+43.	“School for Naval Oceanography & Meteorology”: Kochi, Kerala
+44.	“Maritime Warfare Centre”: Kochi, Kerala
+45.	“Indian Navy Physical Training School, INS Mandovi”: Goa
+46.	“Air Force Academy”: Dundigal, Telangana
+47.	“Basic Flying Training School”: Prayagraj, Uttar Pradesh
+48.	“Navigation Training School”: Begumpet, Telangana
+49.	“Air Force Technical College”: Jalahalli, Bengaluru
+50.	“Basic Training Institute”: Belgaum, Karnataka
+51.	“Garud Regimental Training Centre”: Chandinagar, Uttar Pradesh
+52.	“Helicopter Training School”: Hakimpet
+53. "Eastern air command": Shillong Meghalaya
+54. "Western air command": New Delhi
+55. "central air command": Prayagraj
+56. "Northern air command": NONE
+57. "training air command": Bengaluru
+58. "Maintenance air command": Nagpur Pune
+59. "Southern air command": Thiruvananthapuram
+60. "South-western air command": Gandhinagar
+61. "Eastern-naval command": Visakhapatnam
+62. "western naval command": Mumbai
+63. "Southern naval command": Kochi
+64. "Western Army command": Haryana
+65. "Northern command": Udhampur
+66. "Southern command": Pune
+67. "central command": Lucknow
+68. "eastern command": Kolkata
+69. "army training command": Shimla
+70. "South western command": Jaipur

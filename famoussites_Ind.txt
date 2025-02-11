@@ -1,0 +1,26 @@
+1. “Ajanta”: Maharashtra
+2. “Akbar’s Tomb”: Agra (UP)
+3. “Anand Bhawan”: Prayagraj (UP)
+4. “Bhakra Dam”: Bilaspur (Himachal Pradesh)
+5. “Brihadeshwara Temple”: Thanjavur
+6. “Buland Darwaza”: Fatehpur Sikri (UP)
+7. “Dilwara Temples”: Mt. Abu (Rajasthan)
+8. “Elephanta Caves & Mahushmukh Temple”: Mumbai
+9. “Hanging Gardens”: Mumbai
+10.	“Mt. Girnar (Jain Temple)”: Junagadh, Gujarat
+11.	“Nataraja Temple”: Chidambaram, Tamil Nadu
+12.	“Padmanabha Temple”: Thiruvananthapuram
+13.	“Palitana (Jain Temple)”: Bhavnagar (Gujarat)
+14.	“Statue of Gomateshwara”: Shravanbelagola, Karnataka
+15.	“Pichola Lake”: Udaipur
+16.	“Kailash Temple”: Ellora, Maharashtra
+17.	“Lal Bagh Botanical Garden”: Bengaluru
+18.	“Lingaraj Temple”: Bhubaneshwar
+19.	“Malabar Hills”: Mumbai
+20.	“Man Mandir Palace”: Gwalior, MP
+21.	“Marble Rocks”: Jabalpur (MP)
+22.	“Minakshi Temple”: Madurai, TN
+23.	“Chashme Shahi”: Srinagar
+24.	“Nishat Bagh”: Srinagar
+25.	“Tower of Silence”: Mumbai
+26.	“Vijay Ghat”: Delhi

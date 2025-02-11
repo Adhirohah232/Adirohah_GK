@@ -1,0 +1,32 @@
+1. Nagarjunsagar_Srisailam: Andhra Pradesh
+2. Kamlang: Arunachal Pradesh
+3. Pakke: Arunachal Pradesh
+4. Nameri: Assam
+5. Orang: Assam
+6. Udanti_Sitanadi: Chhattisgarh
+7. Achanakmar: Chhattisgarh
+8. Indravati: Chhattisgarh
+9. Palamau: Jharkhand
+10.	Bhadra: Karnataka
+11.	Dandeli_Anshi: Karnataka
+12.	Nagarhole: Karnataka
+13.	Parambikulam: Kerala
+14.	Bandhavgarh: Madhya Pradesh
+15.	Sanjay_Dhubri: Madhya Pradesh
+16.	Melghat: Maharashtra
+17.	Tadoba_Andhari: Maharashtra
+18.	Nawegaon_Nagzira: Maharashtra
+19.	Bor: Maharashtra
+20.	Dampa: Mizoram
+21.	Similipal: Odisha
+22.	Satkosia: Odisha
+23.	Ranthambore: Rajasthan
+24.	Sariska: Rajasthan
+25.	Mukundara_Hills: Rajasthan
+26.	Ramgarh_Vishdhari: Rajasthan
+27.	Kalakad_Mundanthurai: Tamil Nadu
+28.	Sathyamangalam: Tamil Nadu
+29.	Srivilliputhur Megamalai: Tamil Nadu
+30.	Amrabad: Telangana
+31.	Rajaji: Uttarakhand
+32.	Buxa: West Bengal
