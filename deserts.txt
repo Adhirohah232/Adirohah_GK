@@ -1,0 +1,17 @@
+1. "Sahara": Northern Africa (Algeria, Chad, Libya, Mali, Mauritania, Niger, Sudan, Tunisia, Egypt, Morocco, Burkina Faso)
+2. "Australian": Great Sandy Desert, Barberton, Great Victoria, Simpson, Gibson, and Stuart Desert areas
+3. "Gobi": Mongolia and China
+4. "Patagonia": Argentina
+5. "Kalahari": Botswana (Middle Africa)
+6. "Taklamakan": Tsi Kyang (China)
+7. "Sonoran": Arizona and California (USA and Mexico)
+8. "Namib": South Africa (Namibia)
+9. "Karakum": Turkmenistan
+10. "Thar": North Western India and Pakistan
+11. "Somali": Somalia (Africa)
+12. "Atacama": North Chile (South America)
+13. "Kyzyl Kum": Uzbekistan, Kazakhstan
+14. "Mojave": USA
+15. "Sierra Nevada": USA
+16. "Dast-e-Lut": Eastern Iran
+17. "Sechura": Peru

@@ -1,0 +1,9 @@
+1. "Isohaline": A line on a map of the ocean connecting all points of equal salinity.
+2. "Isobar": A line drawn on a weather map or chart that connects points at which the barometric pressure is the same.
+3. "Isobath": An imaginary line or one drawn on a map connecting all points of equal depth below the surface of a body of water.
+4. "Isobase": A line on a map connecting points of equal uplift.
+5. "Isohypse": A line on a map connecting points of equal height.
+6. "Isohyetes": A line drawn on a map having equal rainfall at a certain time or for a stated period.
+7. "Isopleth": A line on a map connecting points having equal incidence of a specified meteorological feature.
+8. "Isohel": A line on a map connecting points having the same duration of sunshine.
+9. "Isotherm": A line on a map connecting points having the same temperature at a given time or on average over a given period.

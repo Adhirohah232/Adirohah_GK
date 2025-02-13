@@ -1,0 +1,13 @@
+1. "Thermograph": self-recording thermometer
+2. "Seismograph": measures and records Earthquakes.
+3. "Psychrometer": measures humidity
+4. "Planimeter": measures irregular plane area on maps.
+5. "Hygrometer": Measures Humidity
+6. "Fathometer": measures depth of the ocean.
+7. "Clinometer": determines the difference in elevation between two points.
+8. "Chronometer": time - keeping instrument
+9. "Altimeter": measures height, used mainly in planes.
+10. "Anemometer": Measures wind velocity.
+11. "Barometer": measures pressure.
+12. "Beaufort scale": identifies wind strength.
+13. "Theodolite": measures angular distance in vertical plane and horizontal plane.

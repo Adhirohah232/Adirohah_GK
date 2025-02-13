@@ -1,0 +1,23 @@
+1. “Malacca Strait”: connects the Andaman Sea & South China Sea, located between Indonesia and Malaysia
+2. “Palk Strait”: connects the Bay of Mannar & Bay of Bengal, located between India and Sri Lanka
+3. “Sunda Strait”: connects the Java Sea & Indian Ocean, located in Indonesia
+4. “Yucatan Strait”: connects the Gulf of Mexico & Caribbean Sea, located between Mexico and Cuba
+5. “Mesina Strait”: connects the Mediterranean Sea, located between Italy and Sicily
+6. “Bab-el-Mandeb Strait”: connects the Red Sea & Gulf of Aden (Arabian Sea), located between Yemen and Djibouti
+7. “Taurus Strait”: connects the Arafura Sea & Gulf of Papua, located between Papua New Guinea and Australia
+8. “Bass Strait”: connects the Tasman Sea & South Sea, located in Australia
+9. “Bonne-Fasio Strait”: connects the Mediterranean Sea, located between Corsica and Sardinia
+10.	“Bosporus Strait”: connects the Black Sea & Marmara Sea, located in Turkey
+11.	“Dardanelles Strait”: connects the Marmara Sea & Aegean Sea, located in Turkey
+12.	“Davis Strait”: connects Baffin Bay & Atlantic Ocean, located between Greenland and Canada
+13.	“Denmark Strait”: connects the North Atlantic & Arctic Ocean, located between Greenland and Iceland
+14.	“Dover Strait”: connects the English Channel & North Sea, located between England and France
+15.	“Florida Strait”: connects the Gulf of Mexico & Atlantic Ocean, located between the USA and Cuba
+16.	“Hormuz Strait”: connects the Gulf of Persia & Gulf of Oman, located between Oman and Iran
+17.	“Hudson Strait”: connects the Gulf of Hudson & Atlantic Ocean, located in Canada
+18.	“Gibraltar Strait”: connects the Mediterranean Sea & Atlantic Ocean, located between Spain and Morocco
+19.	“Magellan Strait”: connects the Pacific Ocean & South Atlantic Ocean, located in Chile
+20.	“Makassar Strait”: connects the Java Sea & Celebes Sea, located in Indonesia
+21.	“Tsugaru Strait”: connects the Japan Sea & Pacific Ocean, located in Japan (between Hokkaido and Honshu Island)
+22.	“Karimata Strait”: connects the South China Sea & Java Sea
+23.	“Tsushima Strait”: connects the Japan Sea, Yellow Sea & East China Sea

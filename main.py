@@ -33,10 +33,18 @@ if file_input > 0 and file_input < 10:
         print('np: National parks\n')
         print('tr: Tiger reserves\n')
         print("fsi: famous sites of India\n")
+        print("ms: major straights of the world\n")
+        print("wl: major lakes of the world\n")
+        print("mc: major canals of the world\n")
+        print("geoe: major Geographical epithets of the world\n")
+        print("bl: important boundary lines\n")
+        print("mpl: important map lines\n")
+        print("mi: measuring instrument related to environment\n")
         print('rp: Important revolutions and its purpose\n')
         print('rf: Importand revolutions and their fathers\n')
         print('ied: Important days related to environment\n')
         print('iy: Importand years related to environment\n')
+        
         
         env_input = input('choose one: ')
         if env_input == 'ip':
@@ -48,6 +56,27 @@ if file_input > 0 and file_input < 10:
             # generate_quizpair('./nationalparks.txt')
         elif env_input=='rp':
             filename = './revolution_purpose.txt' 
+        elif env_input=='ms':
+            ms_input = input('choose type to ask(a/b): ')
+            if(ms_input == 'a'):
+                filename = './straights.txt' 
+            elif(ms_input == 'b'):
+                generate_quizpair('./straights.txt')
+
+        elif env_input=='wl':
+            generate_quizpair('./world_lakes.txt')
+        elif env_input=='lake':
+            generate_quizpair('./lakes.txt')
+        elif env_input=='mi':
+            generate_quizpair('./measuring_instrument.txt')
+        elif env_input=='mpl':
+            generate_quizpair('./map_lines.txt')
+        elif env_input=='geoe':
+            generate_quizpair('./geographical_epithets.txt')
+        elif env_input=='mc':
+            generate_quizpair('./canals.txt')
+        elif env_input=='bl':
+            generate_quizpair('./boundary_lines.txt')
         elif env_input=='fsi':
             generate_quizpair('./famoussites_Ind.txt')
         elif env_input=='rf':
@@ -402,7 +431,7 @@ for i in range(limit):
                 f'Remark: INCORRECT🥲, the correct answer is: {correct_region}')
         print('.................................\n')
 
-    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt' or filename =='./city_nicknames.txt' or filename =='./armedforces_projects.txt':
+    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt' or filename =='./city_nicknames.txt' or filename =='./armedforces_projects.txt' or filename =='./straights.txt':
         askword = get_random_word(terms)
         askword_values = terms[askword].split(', ')
         random.shuffle(askword_values)
