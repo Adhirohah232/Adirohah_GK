@@ -1,0 +1,87 @@
+﻿1. In an interview for a single position, the probability of the husband being selected is 5/8 and the probability of the wife being selected is 3/7. If they both appear for the interview, what is the probability that at least one of them will be selected?
+[13/14, 12/14, 11/14, 12/14]
+Ans: 11/14
+
+
+2. find the chance of drawing 2 blue balls in succession from a bag containing 5 Red and 7 blue balls, if the balls are not being replaced
+[3/13, 21/64, 7/22, 21/61]
+Ans: 7/22
+
+3. From a pack of 52 cards, two are drawn at random. Find the chance that one is a knave and the other a Queen
+[8/663, 1/16, 1/9, 1/12]
+Ans: 8/663
+
+
+4. A bag contains 3 Green and 7 white balls. Two balls are, drawn from the bag in succession without replacement. What is the probability that both are white
+[1/7, 5/11, 7/11, 7/15]
+Ans: 7/15
+
+
+5. A bag contains 3 Green and 7 white balls. Two balls are, drawn from the bag in succession without replacement. What is the probability that they are of different colors?
+[7/15, 5/11, 7/9, 7/11]
+Ans: 7/15
+
+
+6. From a bag containing 4 white and 5 black balls, a man draws 3 at random. What are the odds against these all being black? [hint: odd-against = P(E)`/P(E)]
+[5/37, 37/5, 11/13, none] 
+Ans: 37/5
+
+
+7. Two balls are to be drawn from a bag containing 8 grey and 3 blue balls. Find the chance that they will both be blue?
+[2/11, 3/55, 11/15, none]
+Ans: 3/55
+
+
+8. In a throw of two dice, find the probability of getting one prime and one composite number.
+[½, ⅓, ⅔, none]
+Ans: ⅓ 
+
+
+9. If a dice is thrown twice, find the probability that the product of of the number on dices is at_ least 30?
+[1/12, 3/11, 4/15, none]
+Ans: 1/12
+
+
+10. Two cards are drawn from a standard deck of 52 cards without replacement, Find the probability that both cards are face cards.
+[1/15, 1/34, 2/35, 11/221]
+Ans: 11/221
+
+
+11. There are two bags containing white and black balls. In the first bag, there are 8 white and 6 black balls and in the second bag, there are 4 white and 7 black balls. One ball is drawn at random from any of these two /bags. Find the probability of this ball being black.[hint: ½ for 1 bag * probability of getting the ball from that bag]
+[40/77, 41/77, 32/77, none]
+Ans: 41/77
+
+
+12. A bag contains 5 red marbles, 4 blue marbles, and 3 green marbles. Two marbles are drawn at random. Find the probability that Both marbles are red.
+[1/66, 2/45, 5/33, 3/11]
+Ans: 5/33
+
+
+13. Two events A and B are independent. The probability of A is 0,6, and the probability of B is 0.4. Find the probability that Both A and B occur.)
+[0.24, 0.36, 0.47, none]
+Ans: 0.24
+
+
+14. Two events A and B are independent. The probability of A is 0.5, and the probability of B is 0.8. Find the probability that At least one of A or B occurs.[hint: AB` + A`B +AB]
+[0.5, 0.6, 0.7, 0.9]
+Ans: 0.9 
+
+
+15. Two events A and B are independent. The probability of A is 0.5, and the probability of B is 0.8. Find the probability that At most one of A or B occurs.
+[0.5, 0.6, 0.7, 0.9]
+Ans: 0.5
+
+
+16. There are 9 oranges and 12 guavas in a box. If the two fruits are chosen at random, the probability that one is an orange and other is a guava is
+[0.51, 0.37, 0.42, none]
+Ans: 0.51
+
+
+17.  A problem is given to three persons P, Q, R whose respective chances of solving it are 2/7, 4/7, 4/9 respectively. What is the probability that the problem is solved?[hint: 1-p’(not solved)]
+[120/147, 122/147, 75/441, 25/147]
+Ans: 122/147
+
+
+18. The probability of ship A reaching safely is 4/7, ship B is 5/9, and ship C is 2/3. What is the probability that exactly one of the ships will reach safely?
+[55/189, 44/189. 23/189, none]
+Ans: 55/189

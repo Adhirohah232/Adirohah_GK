@@ -10,15 +10,16 @@ from pairquiz import generate_quizpair
 
 print("🙏WELCOME🙏 to Ask_GK 😃\n")
 print("-------------------------------\n")
-print("1. Environment\n")
-print('2. India\n')
-print('3. Tissues\n')
-print('4. polity\n')
-print('5. Defence\n')
-print('6. History\n')
-print('7. miscellinous and pyqs\n')
-print('8. quants\n')
-print('9. Current Affairs\n')
+print("1. 🌱 Environment 🌱\n")
+print("2. 🌎 world 🌎\n")
+print('3. 🇮🇳 India 🇮🇳\n')
+print('4. 🧪 Tissues 🧪\n')
+print('5. 💂 polity 💂\n')
+print('6. 🔰 Defence 🔰\n')
+print('7. 🤔 History 🤔\n')
+print('8. 💭 miscellinous and pyqs 💭\n')
+print('9. 🧮 quants 🧮\n')
+print('10. 📰 Current Affairs 📰\n')
 
 filename = ''
 file_input = int(
@@ -33,10 +34,6 @@ if file_input > 0 and file_input < 10:
         print('np: National parks\n')
         print('tr: Tiger reserves\n')
         print("fsi: famous sites of India\n")
-        print("ms: major straights of the world\n")
-        print("wl: major lakes of the world\n")
-        print("mc: major canals of the world\n")
-        print("geoe: major Geographical epithets of the world\n")
         print("bl: important boundary lines\n")
         print("mpl: important map lines\n")
         print("mi: measuring instrument related to environment\n")
@@ -47,6 +44,7 @@ if file_input > 0 and file_input < 10:
         
         
         env_input = input('choose one: ')
+        print('\n')
         if env_input == 'ip':
             filename = './protocol.txt'
         elif env_input=='sc':
@@ -56,25 +54,14 @@ if file_input > 0 and file_input < 10:
             # generate_quizpair('./nationalparks.txt')
         elif env_input=='rp':
             filename = './revolution_purpose.txt' 
-        elif env_input=='ms':
-            ms_input = input('choose type to ask(a/b): ')
-            if(ms_input == 'a'):
-                filename = './straights.txt' 
-            elif(ms_input == 'b'):
-                generate_quizpair('./straights.txt')
-
-        elif env_input=='wl':
-            generate_quizpair('./world_lakes.txt')
+        
         elif env_input=='lake':
             generate_quizpair('./lakes.txt')
         elif env_input=='mi':
             generate_quizpair('./measuring_instrument.txt')
         elif env_input=='mpl':
             generate_quizpair('./map_lines.txt')
-        elif env_input=='geoe':
-            generate_quizpair('./geographical_epithets.txt')
-        elif env_input=='mc':
-            generate_quizpair('./canals.txt')
+        
         elif env_input=='bl':
             generate_quizpair('./boundary_lines.txt')
         elif env_input=='fsi':
@@ -90,35 +77,94 @@ if file_input > 0 and file_input < 10:
             # filename = './tiger_reserve.txt' 
         else:
             filename = './grassland.txt'
+    
     elif file_input == 2:
+        print("ms: major straights of the world\n")
+        print("wl: major lakes of the world\n")
+        print("mc: major canals of the world\n")
+        print("geoe: major Geographical epithets of the world\n")
+        
+        w_input = input(f'choose one: ')
+        if w_input=='ms':
+            ms_input = input('choose type to ask(a/b): ')
+            print('\n')
+
+            if(ms_input == 'a'):
+                filename = './straights.txt' 
+            elif(ms_input == 'b'):
+                generate_quizpair('./straights.txt')
+
+        elif w_input=='wl':
+            generate_quizpair('./world_lakes.txt')
+
+        elif w_input=='geoe':
+            generate_quizpair('./geographical_epithets.txt')
+        elif w_input=='mc':
+            generate_quizpair('./canals.txt')
+
+
+    elif file_input == 3:
         print('cnn: Indian cities and their nicknames\n')
         print('itb: Indian tribes\n')
+        print('af: art forms in India\n')
+        print('dc: dance forms in India\n')
+        print('fli: festivals in India\n')
+
+
         ind_input = input('choose one: ')
+        print('\n')
+
         if(ind_input=='cnn'):
             filename = './city_nicknames.txt'
+        
+        elif(ind_input=='fli'):
+           generate_quizpair('./festivals.txt')
+
         elif(ind_input == 'itb'):
             filename = './tribes.txt'
-    elif file_input == 3:
+        elif(ind_input == 'af'):
+            generate_quizpair('./artforms.txt')
+       
+        elif(ind_input == 'dc'):
+            print('cdc: classical dance forms\n')
+            print('fdc: folk dance forms\n')
+            dance_input = input('choose one: ')
+            print('\n')
+
+            if(dance_input=='cdc'):
+                generate_quizpair('./classicaldance.txt')
+            elif(dance_input == 'fdc'):
+                generate_quizpair('./folkdance.txt')
+
+            
+
+
+    elif file_input == 4:
         print('pt: plant tissue\n')
         print('at: animal tissue\n')
         tissue_input = input('choose one: ')
+        print('\n')
+
         if tissue_input == 'pt':
             filename = './planttissue.txt'
         else:
             filename = './animaltissue.txt'
-    elif file_input == 4:
+    elif file_input == 5:
         print('bf: borrowed features\n')
         print('pts: constitutional parts\n')
         print('sl: schedules\n')
         print('amd: amendments\n')
 
         polity_input = input('choose one: ')
+        print('\n')
         if polity_input == 'bf':
             filename = './borrowedfeatures.txt'
         elif polity_input == 'pts':
             filename = './part.txt'
         elif polity_input == 'amd':
             amd_input = input('amd1, amd2, amd3, amd4(choose one): ')
+            print('\n')
+
             if(amd_input == 'amd1'):
                 filename = './amendments.txt'
             elif(amd_input == 'amd2'):
@@ -130,7 +176,7 @@ if file_input > 0 and file_input < 10:
         else:
             filename = './schedules.txt'
 
-    elif file_input == 5:
+    elif file_input == 6:
         print('opt: operations\n')
         print("loc: Defence Institutes and locations\n")
         print("ccf: current chiefs of Armed forces\n")
@@ -138,6 +184,8 @@ if file_input > 0 and file_input < 10:
         print("afp: armedforces related projects\n")
         
         op_input = input('choose one from above: ')
+        print('\n')
+
         if op_input == 'opt':
             OperationsQuiz().start_quiz()
             exit()
@@ -150,16 +198,20 @@ if file_input > 0 and file_input < 10:
         elif op_input == 'afp':
             filename = './armedforces_projects.txt'
 
-    elif file_input == 6:
+    elif file_input == 7:
         print('srmi: Social and religious movements in India\n')
         print('fih: first in History\n')
 
         history_input = input('choose one: ')
+        print('\n')
+
         if history_input == 'srmi':
             filename = './socio_religious.txt'
             print("🍁 for the questions(who started the Religious movement) below- options will be given for the names.🍁\n")
         elif history_input=='fih':
             fih_input = input('choose one: fih1, fih2, fih3: ')
+            print('\n')
+
             if fih_input=='fih1':
                 filename = './firstIn_history.txt'
             if fih_input=='fih2':
@@ -168,46 +220,74 @@ if file_input > 0 and file_input < 10:
                 filename = './firstIn_history3.txt'
     
 
-    elif file_input==7:
+    elif file_input==8:
         print('gapyq: Afcat-geo pyq\n')
         q_input = input('choose one: ')
+        print('\n')
+
         if q_input=='gapyq':
             QuizGeneratordirect('./geo_miscellinious.txt')
             exit()
     
-    elif file_input==8:
+    elif file_input==9:
         print('qp: percentage\n')
         print('pnl: profit and loss\n')
         print('sdt: speed distance time\n')
+        print('prb: probability\n')
+        print('si: simple interest\n')
+
 
         q_input = input('choose one: ')
+        print('\n')
 
         if q_input=='pnl':
             print('pnl1: type-1\n')
             print('pnl2: type-2(dishonest shopkeeper)\n')
             qp_input = input('choose one: ')
+            print('\n')
+
             if(qp_input== 'pnl1'):
                 QuizGeneratordirect('./P&Ltype1.txt')
             elif(qp_input== 'pnl2'):
                 QuizGeneratordirect('./P&L_dishonest_shopkeeper.txt')
             exit()
 
+        elif q_input=='si':
+            print('si1: type-1\n')
+            print('si2: type-2\n')
+            si_input = input('choose one: ')
+            print('\n')
+
+            if(si_input== 'si1'):
+                QuizGeneratordirect('./simple_interest_type1.txt')
+    
+            elif(si_input== 'si2'):
+                QuizGeneratordirect('./SI_type2_PrincipleAmount_ratio.txt')
+            exit() 
+
+        elif q_input=='prb':
+            QuizGeneratordirect('./probability.txt')
+
         elif q_input=='sdt':
             print('sdt1: type-1\n')
             print('sdt2: type-2(train)\n')
             qp_input = input('choose one: ')
+            print('\n')
+
             if(qp_input== 'sdt1'):
                 QuizGeneratordirect('./SDT_type1.txt')
     
             elif(qp_input== 'sdt2'):
                 QuizGeneratordirect('./SDT_train.txt')
-            exit()    
+            exit()   
             
 
         elif q_input=='qp':
             print('qp1: type-1\n')
             print('qp2: type-2\n')
             qp_input = input('choose one: ')
+            print('\n')
+
             if(qp_input== 'qp1'):
                 QuizGeneratordirect('./percentage_type1.txt')
     
@@ -215,7 +295,7 @@ if file_input > 0 and file_input < 10:
                 QuizGeneratordirect('./percent_type_2.txt')
             exit()
 
-    elif file_input == 9:
+    elif file_input == 10:
         start_again = 'n'
         repeat = True
         while (repeat):
@@ -223,6 +303,8 @@ if file_input > 0 and file_input < 10:
             print('awards: awards related CA\n')
             print('scheme: schemes related CA\n')
             ca_input = input('choose one from the above: ')
+            print('\n')
+
             if (ca_input == 'state'):
                 interactive_quiz()
                 start_again = input('want to start quiz on CA again? (y/n): ')

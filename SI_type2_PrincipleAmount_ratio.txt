@@ -1,0 +1,23 @@
+﻿1. After certain time, ratio of principal and amount is 4:5 after 9 years their ratio become 10:17. Find rate interest.
+[2, 3, 5, 10]
+Ans: 5
+
+
+2. After certain time ratio principle and amount is 2:5 after 10 years their ratio become 4:13. Find rate of interest.
+        [6, 5, 7.5, 9]
+        Ans: 7.5
+
+
+3. If the ratio of principal and amount after 13 years at simple interest becomes 9:17 and after 14.3 more years this ratio will become 15:43. Find the rate of simple interest?
+[6.83, 7.27, 8.34, 9.90]
+Ans: 6.83
+
+
+4. What sum of money will amount to 450 in 5 years and to 480 in 8 years at simple interest ?
+[200, 350, 450, 400]
+Ans: 400
+
+
+5. A certain sum of money amounts to 756 in 2 years and to 873 in 3.5 years at a certain rate of simple interest. The rate of interest per annum is :
+[10, 11, 13, 12]
+Ans: 13

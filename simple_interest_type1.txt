@@ -1,0 +1,68 @@
+﻿1. Sum of money becomes 93/18 times of itself in 25 years at r% of SI, what is the value of r?
+[6.67%, 11.11%, 16.66%, none]
+Ans: 16.66%
+
+
+2. The Simple interest at the end of 3 years at 5% per annum on a sum of Rs 500 is Rs 100. What will be the simple interest on Rs 50g for the same period at the double rate?
+[200, 340, 400, 500]
+Ans: 200
+
+
+3. Anil lent a sum of Rs.5,000 on simple interest for 10 years in such a way that the rate of interest is 6% per annum for the first 2 years, 8% per annum for the next 2 years and 10% per annum beyond 4 years. How much interest (in Rs.) will he earn at the end of 10 years?
+[5000, 3500, 4400, 4300]
+Ans: 4400
+
+
+4. Kruti took a loan at simple interest rate of 6 p.c.p.a. in the first year and it increased by 1.5 p.c.p.a. every year. If she pays Rs 8190 as interest at the end of 3 years, what was her loan amount?
+[34000, 39000, 36400, none]
+Ans: 36400
+
+
+5. A person deposited Rs 400 for 2 years ,Rs 550 for 4 years and Rs.1200 for 6 years at the same rate of simple interest . If he received a total interest of Rs. 1020, what is the rate of interest per annum ?
+[5, 12, 10, none]
+Ans: 10
+
+
+6. Raman borrowed Rs.700 at 6% annum and Rs. 1500 at 7% per annum for the same duration. He had to pay Rs.735 in all as interest. What is the time period in years?
+[3, 5, 3.5, 4]
+Ans: 5
+
+
+7. The Simple interest at the end of t years at r% per annum on a sum of Rs P is Rs 500. What will be the simple interest on the same sum for 4t year at the 1.5r% rate ?
+[2000, 1000, 600, 3000]
+Ans: 3000
+
+
+8. In how many years will the simple interest on a sum of money be equal to the double of the principal at rate of 6.25 % p.a.?
+[4, 8, 16, 32]
+Ans: 32
+
+
+9. A sum of money invested at simple interest 37 times in 100 years then it will become 28 times in:
+[75, 50, 60, 80]
+Ans: 75
+
+
+10. A sum of money invested at simple interest 9 times itself in 32 years. How many times will it become in 56 years time?
+[12, 14, 13, 15]
+Ans: 15
+
+
+11. If a sum of money at simple interest becomes 11/8 times in 7.5 years, then it will become 19/12 times in:
+        [9 years 4 months, 12 years 3 months, 10 years 9 months, 11 years 8 months]
+        Ans: 11 years 8 months
+
+
+12. A sum becomes 16 times of itself at simple interest in 50 years. In how many years it will become 31 times.[hint: use formula = n1-1/t1 = n2-1/t2]
+[50, 90, 150, 100]
+Ans: 100
+
+
+13. An amount of money doubles itself in 10 yr at a certain rate of simple interest. In how many years will it become thrice of the principal?
+[15, 20, 30, none]
+Ans: 20
+
+
+14. A sum was invested for 3 yr at simple interest at a certain rate. Had it been invested at 4% higher rate of interest, it would have fetched Rs. 600 more. The sum is
+[5000, 4000, 3000, none]
+Ans: 5000
