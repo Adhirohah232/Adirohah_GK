@@ -19,13 +19,16 @@ print('6. 🔰 Defence 🔰\n')
 print('7. 🤔 History 🤔\n')
 print('8. 💭 miscellinous and pyqs 💭\n')
 print('9. 🧮 quants 🧮\n')
-print('10. 📰 Current Affairs 📰\n')
+print('10. ⚽️ Sports ⚽️\n')
+print('11. 📰 Current Affairs 📰\n')
+
+
 
 filename = ''
 file_input = int(
     input('Choose any one from the given fields you want me to ask from: '))
 print('---------------------------------------------------\n')
-if file_input > 0 and file_input < 10:
+if file_input > 0 and file_input < 12:
     if file_input == 1:
         print('ip: Important protocols\n')
         print('sc: Shifting cultivations\n')
@@ -301,7 +304,29 @@ if file_input > 0 and file_input < 10:
                 QuizGeneratordirect('./percent_type_2.txt')
             exit()
 
+    
     elif file_input == 10:
+        print('aw: awards\n')
+        
+        sports_input = input('choose one: ')
+        print('\n')
+
+        if sports_input=='aw':
+            print('mdwd: major dyan chandra award in 2024\n')
+            print('aawd: Arjuna awards in 2024\n')
+            print('drwd: Dronachariya Awards in 2024\n')
+            awards_input = input('choose one: ')
+            print('\n')
+
+            if awards_input == 'mdwd':
+                generate_quizpair('./mdckra.txt')
+            elif awards_input == 'aawd':
+                generate_quizpair('./Arjunaaward.txt')
+            elif awards_input == 'drwd':
+                generate_quizpair('./dronachariyaaward.txt')
+            
+
+    elif file_input == 11:
         start_again = 'n'
         repeat = True
         while (repeat):

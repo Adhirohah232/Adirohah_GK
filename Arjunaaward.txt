@@ -1,0 +1,32 @@
+1. "Jyothi Yarraji": Athletics
+2. "Annu Rani": Athletics
+3. "Nitu Ghanghas": Boxing
+4. "Saweety Boora": Boxing
+5. "Vantika Agrawal": Chess
+6. "Salima Tete": Hockey
+7. "Abhishek": Hockey
+8. "Sanjay": Hockey
+9. "Jarmanpreet Singh": Hockey
+10. "Sukhjeet Singh": Hockey
+11. "Rakesh Kumar": Para_Archery
+12. "Preeti Pal": Para_Athletics
+13. "Jeevanji Deepthi": Para_Athletics
+14. "Ajeet Singh": Para_Athletics
+15. "Sachin Sarjerao Khilari": Para_Athletics
+16. "Dharambir": Para_Athletics
+17. "Pranav Soorma": Para_Athletics
+18. "H Hokato Sema": Para_Athletics
+19. "Simran": Para_Athletics
+20. "Navdeep": Para_Athletics
+21. "Nitesh Kumar": Para_Badminton
+22. "Thulasimathi Murugesan": Para_Badminton
+23. "Nithya Sre Sumathy Sivan": Para_Badminton
+24. "Manisha Ramadass": Para_Badminton
+25. "Kapil Parmar": Para_Judo
+26. "Mona Agarwal": Para_Shooting
+27. "Rubina Francis": Para_Shooting
+28. "Swapnil Suresh Kusale": Shooting
+29. "Sarabjot Singh": Shooting
+30. "Abhay Singh": Squash
+31. "Sajan Prakash": Swimming
+32. "Aman sehrawat": Wrestling
