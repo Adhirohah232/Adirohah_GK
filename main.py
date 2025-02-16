@@ -182,6 +182,9 @@ if file_input > 0 and file_input < 10:
         print("ccf: current chiefs of Armed forces\n")
         print("moto: services and their motos\n")
         print("afp: armedforces related projects\n")
+        print("rde: recent defence exercises\n")
+
+
         
         op_input = input('choose one from above: ')
         print('\n')
@@ -195,8 +198,11 @@ if file_input > 0 and file_input < 10:
             generate_quizpair('./mottos.txt')
         elif op_input == 'ccf':
             generate_quizpair('./current_chiefs.txt')
+        elif op_input == 'rde':
+            generate_quizpair('./recent_defenceex.txt')
         elif op_input == 'afp':
             filename = './armedforces_projects.txt'
+        
 
     elif file_input == 7:
         print('srmi: Social and religious movements in India\n')

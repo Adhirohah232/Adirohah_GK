@@ -1,0 +1,32 @@
+1. desert_cyclone: India - UAE, Rajasthan, India
+2. ex_cyclone_l: India - Egypt, Anshas, Egypt
+3. ex_khanjar: India - Kyrgyzstan, Himachal Pradesh, India
+4. sada_tanseeq: India - Saudi Arabia, Rajasthan, India
+5. dharma_guardian: India - Japan, Rajasthan, India
+6. samudra_laksmana: India - Malaysia, Visakhapatnam, India
+7. tiger_triumph: India - USA, Kakinada, India
+8. ex_lamitiye: India - Seychelles, Seychelles
+9. ex_dustlik: India - Uzbekistan, Termez, Uzbekistan
+10. exercise_cyber_suraksha: India
+11. military_exercise_shakti: India - France, Umroi, Meghalaya, India
+12. yudh_abhyas: India-USA, Mahajan Field Firing Ranges, Rajasthan
+13. kazind: India-Kazakhstan, Auli, Uttarakhand
+14. vajra_prahar: India-US, Idaho, USA
+15. vinbax: India-Vietnam, Ambala and Chandimandir
+16. harimau_shakti: India- Malaysia, Pahang district, Malaysia
+17. surya_kiran: India-Nepal, Saljhandi, Nepal
+18. exercise_mitra_shakti: India & Sri Lanka, Maduru Oya, Sri Lanka
+19. exercise_hand_in_hand: India & China
+20. exercise_nomadic_elephant: India & Mongolia
+21. military_exercise_al_najah: India & Oman
+22. rimpac: Australia, Brunei, Canada, Chile, China, Colombia, Denmark, France, Germany, India, Indonesia, Italy, Japan, Malaysia, and more
+23. malabar: India, the United States, Japan, Australia
+24. cobra_gold: Asia-Pacific countries Held in thailand
+25. samvedna: South Asian Region Nations
+26. ibsamar: Indian, Brazilian, and South African Navy
+27. exercise_ayutthaya: India and Thailand
+28. exercise_sada_tanseeq: India and Saudi Arabia
+29. exercise_dosti: India and Maldives
+30. exercise_samudra_laksamana: India and Malaysia
+31. anti_tank_guided_missiles: Amogha, Nag, Helina, Samho
+32. air_to_surface: Rudram missile, Rampage
