@@ -1,30 +1,30 @@
-1. jharkhand:Jhumair Dance, Chhau Dance, Paika Dance, Karam Dance, Hunta Dance, Phagua Dance
-2. uttarakhand:Chancheri, Ramman, Choliya, Jhora, Bhotia
-3. chhattisgarh:Gaur, Maria, Panthi, Raut_Nacha, Pandwani, Gendi_Dance, Khada_Nacha, Cherchera_Dance, Kaksar_Dance, Suwa_Dance
-4. andhra_pradesh:Kuchipudi, Veeranatyam, Dhimsa, Vilasini_Natyam, Kolattam, Lambadi
-5. arunachal_pradesh:Mask_Dance, War_Dance
-6. himachal_pradesh:Shirmornati, Daggyali, Deep_Dance Jhora, Jhali, Dhaman, Daf, Jhainta, Chharhi
-7. goa:Mandi, Jhagor, Khol, Dakni, Fugdi
-8. rajasthan:Cheri, Kalbelia, Katputli, Ghoomar, Chakri, Gangor, Jhulan_Leela, Jhuma, Ghapal
-9. tamil_nadu:Karakattam, Bharatanatyam, Kummi, Kolattam, Kavadi_Attam (Silambam - Martial art of TN)
-10. assam:Sattriya, Bhortaal, Deodhani, Bihu, Bichhua, Natpuja, Bagurumba, Kaligopal, Maharas
-11. kerala:Kathakali, Mohiniattam, Theyyam, Koodiyattam (Kalaripayattu: Martial Art)
-12. manipur:Nupa_dance, Thang_ta_dance, Rakhal, Pung_Cholom/Drum_Dance
-13. uttar_pradesh:Charkula, Rasleela, Ramleela, Kajri, Nautanki, Nakal
-14. orissa:Dekhani, Savari, Sambalpuri, Paika, Chhau
-15. karnataka:Jogathi, Deepam_Dance, Yakshagna, Karga, Lambi, Veeragase
-16. maharashtra:Lavani, Mujra, Tamasha, Koli, Lezim, Gafa, Mauni
-17. jammu_&_kashmir:Rauf, Kud, Dandi_Nach
-18. daman_&_diu:Veera, Mando, Verdigao
-19. meghalaya:Laho, Nongkrem, Wangala, Shad_Suk_Mynsiem, and Shad_Kynjoh
-20. bihar:Jat-Jatin, Bakho-Bakhain, Bidesia, Jatra, Jhijhiya
-21. punjab:Bhangra, Giddha
-22. gujarat:Garba, Dandiya_Ras, Tippani
-23. west_bengal:Gambhira, Santhal
-24. puducherry:Garadi
-25. lakshwadeep:kolkali, lava, parichakali
-26. telengana:Gussadi
-27. odisha:Odissi
+1. jharkhand: Jhumair Dance, Chhau Dance, Paika Dance, Karam Dance, Hunta Dance, Phagua Dance
+2. uttarakhand: Chancheri, Ramman, Choliya, Jhora, Bhotia
+3. chhattisgarh: Gaur, Maria, Panthi, Raut_Nacha, Pandwani, Gendi_Dance, Khada Nacha, Cherchera Dance, Kaksar Dance, Suwa Dance
+4. andhra_pradesh: Kuchipudi, Veeranatyam, Dhimsa, Vilasini_Natyam, Kolattam, Lambadi
+5. arunachal_pradesh: Mask_Dance, War_Dance
+6. himachal_pradesh: Shirmornati, Daggyali, Deep Dance Jhora, Jhali, Dhaman, Daf, Jhainta, Chharhi
+7. goa: Mandi, Jhagor, Khol, Dakni, Fugdi
+8. rajasthan: Cheri, Kalbelia, Katputli, Ghoomar, Chakri, Gangor, Jhulan Leela, Jhuma, Ghapal
+9. tamil_nadu: Karakattam, Bharatanatyam, Kummi, Kolattam, Kavadi_Attam (Silambam - Martial art of TN)
+10. assam: Sattriya, Bhortaal, Deodhani, Bihu, Bichhua, Natpuja, Bagurumba, Kaligopal, Maharas
+11. kerala: Kathakali, Mohiniattam, Theyyam, Koodiyattam (Kalaripayattu- Martial Art)
+12. manipur: Nupa_dance, Thang ta dance, Rakhal, Pung Cholom, Drum_Dance
+13. uttar_pradesh: Charkula, Rasleela, Ramleela, Kajri, Nautanki, Nakal
+14. orissa: Dekhani, Savari, Sambalpuri, Paika, Chhau, Odissi
+15. karnataka: Jogathi, Deepam Dance, Yakshagna, Karga, Lambi, Veeragase
+16. maharashtra: Lavani, Mujra, Tamasha, Koli, Lezim, Gafa, Mauni
+17. jammu_&_kashmir: Rauf, Kud, Dandi_Nach
+18. daman_&_diu: Veera, Mando, Verdigao
+19. meghalaya: Laho, Nongkrem, Wangala, Shad Suk Mynsiem, Shad Kynjoh
+20. bihar: Jat Jatin, Bakho Bakhain, Bidesia, Jatra, Jhijhiya
+21. punjab: Bhangra, Giddha
+22. gujarat: Garba, Dandiya Ras, Tippani
+23. west_bengal: Gambhira, Santhal
+24. puducherry: Garadi
+25. lakshwadeep: kolkali, lava, parichakali
+26. telengana: Gussadi
+
 
 
 

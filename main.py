@@ -118,7 +118,7 @@ if file_input > 0 and file_input < 10:
             filename = './city_nicknames.txt'
         
         elif(ind_input=='fli'):
-           generate_quizpair('./festivals.txt')
+           filename = './festivals.txt'
 
         elif(ind_input == 'itb'):
             filename = './tribes.txt'
@@ -134,7 +134,7 @@ if file_input > 0 and file_input < 10:
             if(dance_input=='cdc'):
                 generate_quizpair('./classicaldance.txt')
             elif(dance_input == 'fdc'):
-                generate_quizpair('./folkdance.txt')
+                filename = './folkdance.txt'
 
             
 
@@ -513,7 +513,7 @@ for i in range(limit):
                 f'Remark: INCORRECT🥲, the correct answer is: {correct_region}')
         print('.................................\n')
 
-    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt' or filename =='./city_nicknames.txt' or filename =='./armedforces_projects.txt' or filename =='./straights.txt':
+    elif filename == './part.txt' or filename == './schedules.txt' or filename=='./amendments.txt' or filename =='./city_nicknames.txt' or filename =='./armedforces_projects.txt' or filename =='./straights.txt' or filename=='./folkdance.txt' or filename=='./festivals.txt':
         askword = get_random_word(terms)
         askword_values = terms[askword].split(', ')
         random.shuffle(askword_values)
