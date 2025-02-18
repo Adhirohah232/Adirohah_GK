@@ -231,11 +231,16 @@ if file_input > 0 and file_input < 12:
 
     elif file_input==8:
         print('gapyq: Afcat-geo pyq\n')
+        print('e100: 100 expected questions\n')
+
         q_input = input('choose one: ')
         print('\n')
 
         if q_input=='gapyq':
             QuizGeneratordirect('./geo_miscellinious.txt')
+            exit()
+        elif q_input=='e100':
+            QuizGeneratordirect('./1_100expected.txt')
             exit()
     
     elif file_input==9:
@@ -244,6 +249,8 @@ if file_input > 0 and file_input < 12:
         print('sdt: speed distance time\n')
         print('prb: probability\n')
         print('si: simple interest\n')
+        print('ci: compound interest\n')
+
 
 
         q_input = input('choose one: ')
@@ -260,6 +267,9 @@ if file_input > 0 and file_input < 12:
             elif(qp_input== 'pnl2'):
                 QuizGeneratordirect('./P&L_dishonest_shopkeeper.txt')
             exit()
+
+        elif q_input=='ci':
+            QuizGeneratordirect('./CI.txt')
 
         elif q_input=='si':
             print('si1: type-1\n')

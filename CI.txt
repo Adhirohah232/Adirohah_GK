@@ -1,0 +1,63 @@
+﻿1. A sum of Rs. 400 amounts to Rs. 441 in 2 yr. What will be its amount, if the rate of interest is increased by 5%
+[434, 484, 500, 625]
+Ans: 484
+
+
+2. In how many years will Rs 2,000 amounts to Rs. 2,420 at 10% per annum compound interest ?
+[2, 3, 2 ½, 3 ½]
+Ans: 2
+
+
+3. Vijay invested Rs. 15000 at the rate of 10% per annum for 1 yr. If the interest is compounded half-yearly, then find the amount received by Raja at the end of the year.
+[20000, 19000.4, 16537.5, 1850.6]
+Ans: 16537.5
+
+
+4. The compound interest on Rs.16,000 for 9 months at 20% p.a. compounded quarterly, is.[hint: year-3 years(9*4), rate: 5%(20/4)
+[2520, 2522, 2300, none]
+Ans: 2522
+
+
+5. A sum of money doubles itself in 4 years at compound Interest. It will amount to 8 times itself at the same rate of interest in :[4->2, T ->8(2^3) , T = 4*3 = 12]
+[9, 11, 5, 12]
+Ans: 12
+
+
+6. A sum borrowed under compound interest doubles itself in 10 years. When will it become fourfold of itself at the same rate of interest?
+[15, 20, 24, 40]
+Ans: 20
+
+
+7. A sum borrowed under compound interest doubles itself in 10 years. When will it become fourfold of itself at the same rate of interest?[hint: 2y-diff= pr^2/10000, 3y-diff= pr^2(300+r)/1000000]
+[26.28, 29.38, 30.56, none]
+Ans: 26.28
+
+
+8. The difference between compound and simple interest on a sum of money at 4% per annum for 2 yr is Rs. 8. The sum is
+[400, 800, 4000, 5000]
+Ans: 5000
+
+
+9. The difference between simple interest and compound on Rs. 1200 for one year at 10% per annum reckoned half-yearly is:
+[2.5, 3.5, 4, 3]
+Ans: 3
+
+
+10. Simple interest on a certain sum of money for 3 years at 8% per annum is half the compound interest on Rs. 4000 for 2 years at 10% per annum. The sum placed on simple interest is:
+[1750, 1800, 1870, none]
+Ans: 1750
+
+
+11. The simple interest on a sum of money at 4% per annum for 2 years is Rs.80. The compound interest in the same sum for the same period is
+[82.6, 81.6, 70.5, none]
+Ans: 81.6
+
+
+12. The simple interest on a certain sum of money for two years at 5% is Rs. 1600. The compound interest at the same rate after 3 years interest compounded annually, is
+[2522, 2300, 4000, 3500]
+Ans: 2522
+
+
+13. If the compound interest on a certain sum for 2 years at 4% p.a. is Rs.102, the simple interest at the same rate of interest for two years would be
+[200, 50, 150, 100]
+Ans: 100
