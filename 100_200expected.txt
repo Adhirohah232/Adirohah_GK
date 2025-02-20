@@ -1,0 +1,391 @@
+101. Which cricket team won the first edition of the World Test Championship (WTC)?
+[Australia, India, England, New Zealand]
+Ans: New Zealand
+
+102. The "Duckworth-Lewis-Stern method" is associated with which sport?
+[Football, Tennis, Cricket, golf]
+Ans: Cricket
+
+103. Which country won the 2024 Copa América Football Championship?
+[Uruguay, Argentina, Brazil, Colombia]
+Ans: Argentina
+
+104. First ever century for India in one day internationals was scored by -
+[Kapil Dev, Sunil Gavaskar, Sachin Tendulkar, Saurabh Ganguly]
+Ans: Kapil Dev
+
+105. Who won the Men's Singles title at the India Open 2024?
+[Viktor Axelsen, Lakshya Sen, Kidambi Srikanth, Shi Yuqi]
+Ans: Shi Yuqi
+
+106. Headquarters of the International Olympic Committee are located in which country?
+[Greece, Switzerland, Belgium, France]
+Ans: Switzerland
+
+107. Which was the only appearance of cricket at the Summer Olympics?
+[1900 Paris Games, 1901 Paris Games, 1902 Paris Games, 1903 Paris Games]
+Ans: 1900 Paris Games
+
+108. Which country is the host of Kho Kho World Cup 2025?
+[Australia, China, Nepal, India]
+Ans: India
+
+110. Who was the first world chess champion, winning the first official World Chess Championship match in 1886.
+[Wilhelm Steinitz, Johannes Zukertort, Alexander Alekhine, Emanuel Lasker]
+Ans: Wilhelm Steinitz
+
+111. Who among the following became the most expensive player in IPL auction history for INR 27 crore.
+[Virat Kohli, Rituraj Gaekwad, Rishabh Pant, Shreyas Iyer]
+Ans: Rishabh Pant
+
+112. Who among the following won the 2024 FIDE Women's World Rapid Championship?
+[Koneru Humpy, Vaishali Rameshbabu, Divya Deshmukh, Tanya Sachdev]
+Ans: Koneru Humpy
+
+113. Recently, who made the record for the fastest century in women's Test cricket?
+[Nat Sciver-Brunt, Smriti Mandhana, Harmanpreet Kaur, Ellyse Perry]
+Ans: Nat Sciver-Brunt
+
+114. Who has become the first Monégasque driver to win the Monaco Grand Prix since 1931.
+[Charles Leclerc, Max Verstappen, Fernando Alonso, Lewis Hamilton]
+Ans: Charles Leclerc
+
+115. Who was named the chairperson of the Athletics Federation of India (AFI) Athletes Commission in 2024?
+[Neeraj Chopra, P. T. Usha, Anju Bobby George, Milkha Singh]
+Ans: Anju Bobby George
+
+116. "Bring it On: The Incredible Story of My Life" is the autobiography of-
+[Dipa Karmakar, Deepa Malik, Murlikant Petkar, Sumit Antil]
+Ans: Deepa Malik
+
+117. How many athletes were selected to represent India at the 2024 Paris Summer Olympics?
+[118, 120, 117, 106]
+Ans: 117
+
+118. Swapnil Kusale won a Bronze medal in the 2024 Paris Olympics in which event?
+[10 m pistol, 50 m rifle 3 position, 25m rapid-fire pistol, 10 m air rifle]
+Ans: 50 m rifle 3 position
+
+119. 'Castling' is related to which of the following sports?
+[Cricket, Tennis, Chess, Billiards]
+Ans: Chess
+
+120. Which Indian city is set to host the 2025 Para Athletics World Championship?
+[Mumbai, New Delhi, Bengaluru, Hyderabad]
+Ans: New Delhi
+
+121. Consider the following statements: England is the only country that has won the ICC World Cup twice.  Virat Kohli is the only player to be adjudged as the Player of the Series in the ICC T20 World Cup twice. Which of the above statements is/are correct?
+[1 only, 2 only, Both 1 and 2, Neither 1 nor 2]
+Ans: 2 only 
+
+122. Which country will host the 2025 Champions Trophy?
+[Pakistan, India, UAE, Both pak and India]
+Ans: Pakistan
+
+123. "Murlikant Petkar", India's first Paralympics Gold medalist, recently received the Arjuna Award (Lifetime). He is related to which sports?
+[Javelin, Swimming, Shot Put, Table-Tennis]
+Ans: Swimming
+
+124. Who among the following played Murlikant Petkar's character in his biopic?
+[Kartik Aaryan, Sushant Singh Rajput, Rajkummar Rao, Vidyut Jammwal]
+Ans: Kartik Aaryan
+
+125. Who among the following cricketers was the first to be given out by the 3rd empire?
+[Ricky Ponting, Sachin Tendulkar, MS Dhoni, Rahul Dravid]
+Ans: Sachin Tendulkar
+
+126. Who among the following is not associated with the sport of F1 racing?
+[Lewis Hamilton, Charles Leclerc, Romain Grosjean, Luis Suarez]
+Ans: Luis Suarez
+
+127. 'Raider' is associated with which sport?
+[Cricket, Hockey, Kabaddi, Football]
+Ans: Kabaddi
+
+128. Who among the following has written the book Stargazing: The Players in My Life?
+[Suresh Raina, Rahul Dravid, Sunil Gavaskar, Ravi Shastri]
+Ans: Ravi Shastri
+
+129. Who among the following Indians is among the 3 inductees into the International Cricket Council (ICC) Hall of Fame in 2024.
+[Neetu David, Diana Edulji, Shubhangi Kulkarni, Jhulan Goswami]
+Ans: Neetu David
+
+130. "Mandeep Jangra" who was in news recently is related to which sports?
+[Wrestling, Boxing, Badminton, Sailing]
+Ans: Boxing
+
+131. Who has created history by becoming the youngest rated chess player from India?
+[Javokhir Sindarov, Yagiz Kaan Erdogmus, Divith Reddy, Anish Sarkar]
+Ans: Anish Sarkar
+
+132. Billie Jean King Cup is associated with which sports?
+[Badminton, Tennis, Football, Handball]
+Ans: Tennis
+
+133. Emma McKeon, who has recently announced her retirement, belongs to which country?
+[USA, Finland, Russia, Australia]
+Ans: Australia
+
+134. "Fearless: A Memoir" is the autobiography of which famous Indian cricketer?
+[Kapil Dev, Sunil Gavaskar, Mohinder Amarnath, Ravi Shastri]
+Ans: Mohinder Amarnath
+
+135. Who was awarded the ICC Cricketer of the Year in 2024?
+[Jaspreet Bumrah, Joe Root, Kane Williamson, Pat Cummins]
+Ans: Jaspreet Bumrah
+
+136. Which is the largest freshwater lake in India?
+[Loktak Lake, Lonar Lake, Wular Lake, Dal Lake]
+Ans: Wular Lake
+
+137. What is the southernmost point of mainland India called?
+[Kanyakumari, Indira Point, Point Calimere, Rameswaram]
+Ans: Kanyakumari
+
+138. Which state has the longest coastline in India?
+[Maharashtra, Tamil Nadu, Kerala, Gujarat]
+Ans: Gujarat
+
+139. The Duncan Passage separates:
+[Little Andaman and Car Nicobar, Lakshadweep Islands and Maldives, South Andaman and Little Andaman, Great Nicobar and Little Nicobar]
+Ans: South Andaman and Little Andaman
+
+140. Which desert is known as the "Great Indian Desert"?
+[Thar Desert, Deccan Desert, Sahara Desert, Kalahari Desert]
+Ans: Thar Desert
+
+141. Study of the structure of the Earth is called
+[Geology, Nephrology, Pedology, Virology]
+Ans: Geology
+
+142. India is divided into how many earthquake zones (seismic zones)?
+[4, 2, 6, 5]
+Ans: 4
+
+143. "Sagarmatha" is the Nepali name of?
+[Mount Everest, Makalu, Kanchenjunga, Lhotse]
+Ans: Mount Everest
+
+146. Which instrument is used to measure depth of ocean?
+[Galvanometer, Barometer, Endoscope, Fathometer]
+Ans: Fathometer
+
+147. When a cloud burst occurs
+[Sudden and very heavy rainfall, Sudden and almost negligible rainfall, Random and light rainfall, No rainfall is observed]
+Ans: Sudden and very heavy rainfall
+
+148. The whole earth does not experience equal days and equal nights on
+[21st March, 22nd December, 23rd September, Both 1 and 3]
+Ans: 22nd December
+
+149. Which type of iron ore is also termed as brown ore?
+[Haematite, Magnetite, Limonite, Siderite]
+Ans: Limonite
+
+150. Which is the green planet in the solar system?
+[Earth, Jupiter, Uranus, Saturn]
+Ans: Uranus
+
+151. International date line passes through which Ocean?
+[Pacific Ocean, Atlantic Ocean, Indian Ocean, Arctic Ocean]
+Ans: Pacific Ocean
+
+152. Which among the following tribe has the largest population in India?
+[Bhils, Meenas, Gonds, Sahariyas]
+Ans: Bhils
+
+153. Which of the following mountain ranges is the oldest in India?
+[Himalayas, Western Ghats, Aravalli, Satpura]
+Ans: Aravalli
+
+154. Indira Col makes the 3-point boundary between which of the following countries?
+[India Nepal China, India Pakistan China, India Myanmar China, India Bhutan China]
+Ans: India Pakistan China
+
+155. The Tropic of Cancer passes through which of the following Indian states?
+[Rajasthan Gujarat Maharashtra, Uttar Pradesh Bihar Jharkhand, Rajasthan Madhya Pradesh West Bengal, Tamil Nadu Kerala Karnataka]
+Ans: Rajasthan Madhya Pradesh West Bengal
+
+156. Green Voyage 2050 project is related to which of the following?
+[Zero marine plastic pollution, Zero damage to marine biodiversity by ships, Zero Greenhouse gas emission by ships, Zero oil spillage by ships]
+Ans: Zero Greenhouse gas emission by ships
+
+157. Which Indian state is the largest producer of coffee?
+[Kerala, Karnataka, Tamil Nadu, Andhra Pradesh]
+Ans: Karnataka
+
+158. Which among the following countries administers "Coco Islands" located in Andaman sea?
+[India, Sri Lanka, Myanmar, China]
+Ans: Myanmar
+
+159. In which of the following seasons, brief squalls and thunderstorms known as Kalbaisakhi, or Nor'westers, often occur in West Bengal?
+[Early winter, Late winter, Early summer, Rainy Season]
+Ans: Early summer
+
+160. Which among the following is the largest physiographic division of India?
+[Peninsular Upland, Himalayan Region, Northern plains, Desert region]
+Ans: Peninsular Upland
+
+161. The city of Paris is situated on which river?
+[Danube, Seine, Potomac, Saône]
+Ans: Seine
+
+162. The valley of flowers is located in which of the following places?
+[Kashmir Himalaya, Himachal Himalaya, Nepal Himalaya, Garhwal Himalaya]
+Ans: Garhwal Himalaya
+
+163. As per the India State of Forest Report (ISFR) 2023, what percent of the total geographical area of India is covered with forest and tree?
+[21.67%, 25.17%, 29.15%, 33.12%]
+Ans: 25.17%
+
+164. The Lonar lake of Maharashtra is a type of which of the following?
+[Crater Lakes, Tectonic Lakes, Landslide Lakes, Aeolian Lakes]
+Ans: Crater Lakes
+
+165. Which of the following is known as the Golden Quadrilateral?
+[Rail lines joining metropolitan cities, National Highway Project, Air Routes, Gold Trading Ways]
+Ans: National Highway Project
+
+166. 'Shifting cultivation' is also known as ________ in north-east India:
+[Logan, Jhum, Chena, Ladang]
+Ans: Jhum
+
+167. How many major sea ports are there in India?
+[6, 9, 10, 13]
+Ans: 13
+
+168. Which mountain range acts as a boundary between Europe and Asia?
+[Altai, Atlas, Ural, Hindukush]
+Ans: Ural
+
+169. How many climatic groups did Koeppen recognise?
+[20, 10, 5, 6]
+Ans: 5
+
+170. Which among the following is not the ideal condition for the formation of tropical cyclones?
+[Large sea surface with temperature higher than 27° C, Upper divergence above the sea level system, Presence of the Coriolis force, High-level cyclonic circulation]
+Ans: High-level cyclonic circulation
+
+171. Mount Semeru, which was seen in the news due to a volcanic eruption, is located in which country?
+[Indonesia, Philippines, Malaysia, Vietnam]
+Ans: Indonesia
+
+172. Diego Garcia Island, which was recently seen in the news, is located in which ocean?
+[Indian Ocean, Atlantic Ocean, Pacific Ocean, Arctic Ocean]
+Ans: Indian Ocean
+
+173. Which stadium in India received the prestigious FIFA QUALITY certification for its football turf?
+[Ladakh Football Stadium, Salt Lake Stadium, Tawang High Altitude Stadium, Jawaharlal Nehru Stadium]
+Ans: Tawang High Altitude Stadium
+
+174. Dar Es Salam port, which was in news recently, is located in which country?
+[Tanzania, Madagascar, Mozambique, Bahrain]
+Ans: Tanzania
+
+175. Where has Asia's Largest and World's Highest Imaging Cherenkov Observatory inaugurated?
+[Hanle Ladakh, Tawang Arunachal Pradesh, Gangtok Sikkim, None of the above]
+Ans: Hanle Ladakh
+
+176. Vembanad lake, that was recently seen in news, lies in which state?
+[Kerala, Karnataka, Maharashtra, Tamil Nadu]
+Ans: Kerala
+
+177. Where was India's first glass bridge inaugurated?
+[Porbandar Gujarat, Kochi Kerala, Visakhapatnam Andhra Pradesh, Kanyakumari Tamil Nadu]
+Ans: Kanyakumari Tamil Nadu
+
+178. Vav-Tharad has been approved as a new district of which state recently?
+[Madhya Pradesh, Gujarat, Rajasthan, Uttarakhand]
+Ans: Gujarat
+
+180. In which of the following places has the Union Cabinet recently approved the development of the National Maritime Heritage Complex (NMHC)?
+[KochivKerala, Mandvi Gujarat, Lothal Gujarat, Bhagatrav Gujarat]
+Ans: Lothal Gujarat
+
+181. Which of the following can not be used as a method of soil conservation?
+[Crop rotation, Terrace Farming, Shifting Cultivation, Use of fertilizers]
+Ans: Shifting Cultivation
+
+182. Who among the following is the founder of The National Congress?
+[AO Hume, WC Banerjee, G.K Gokhale, Rajendra Prasad]
+Ans: AO Hume
+
+183. Who was the first president of the Indian National Congress?
+[Dadabhai Naoroji, Womesh Chunder Bonnerjee, Gopal Krishna Gokhale, A.O. Hume]
+Ans: Womesh Chunder Bonnerjee
+
+184. Which is the only session of the Indian National Congress that was presided by Mahatma Gandhi?
+[Belgaum 1924, Lahore 1929, Calcutta 1920, Karachi 1931]
+Ans: Belgaum 1924
+
+185. The 'Quit India Movement' was launched during which session of the Indian National Congress?
+[Bombay 1942, Lahore 1929, Calcutta 1940, Karachi 1931]
+Ans: Bombay 1942
+
+186. Which session of the Indian National Congress witnessed the split between Moderates and Extremists?
+[Surat 1907, Calcutta 1906, Lucknow 1916, Bombay 1915]
+Ans: Surat 1907
+
+187. During which session did the Indian National Congress adopt the resolution for 'Purna Swaraj' (complete independence)?
+[Lahore 1929, Lucknow 1916, Nagpur 1920, Surat 1907]
+Ans: Lahore 1929
+
+188. Who was the first chairman of the Finance Commission of India?
+[K Santhanam, KC Neogy, Ashok Kumar Chanda, PV Rajamannar]
+Ans: KC Neogy
+
+189. Who among the following was the first woman president of the Indian National Congress?
+[Annie Besant, Sarojini Naidu, Kasturba Gandhi, Vijaya Lakshmi Pandit]
+Ans: Annie Besant
+
+190. Who among the following founded the Atmiya Sabha in 1814?
+[Keshab Chandra Sen, Raja Rammohun Roy, Debendranath Tagore, Dwarkanath Tagore]
+Ans: Raja Rammohun Roy
+
+191. Who was the president of the Indian National Congress at the time of Indian Independence?
+[Jawaharlal Nehru, Maulana Abul Kalam Azad, J.B. Kripalani, Sardar Vallabhbhai Patel]
+Ans: J.B. Kripalani
+
+192. Who founded the newspaper 'Amrita Bazar Patrika'?
+[Motilal Ghosh, Bal Gangadhar Tilak, Mahatma Gandhi, Surendranath Banerjee]
+Ans: Motilal Ghosh
+
+193. Who is the author of 'India divided'?
+[Rajendra Prasad, Jawaharlal Nehru, Mahatma Gandhi, Jyotiba Phule]
+Ans: Rajendra Prasad
+
+194. Arthasastra was written by
+[Vishakhadatta, Megasthenes, Kautilya, Banabhatta]
+Ans: Kautilya
+
+195. The magazine 'Harijan' was published by which prominent leader?
+[Jawaharlal Nehru, Mahatma Gandhi, Subhas Chandra Bose, B.R. Ambedkar]
+Ans: Mahatma Gandhi
+
+196. Which of the following magazines was started by Mahatma Gandhi?
+[Kesari, Young India, New India, Sandesh]
+Ans: Young India
+
+197. The Great Bath, the bronze statue of the dancing girl were popular discoveries of Indus civilization. Where were these two found?
+[Dholavira, Mohenjo Daro, Rakhigarhi, Kalibangan]
+Ans: Mohenjo Daro
+
+198. At which place, the British East India Company established its first permanent factory?
+[Masulipatnam, Surat, Bengal, Ahmedabad]
+Ans: Surat
+
+199. When was the East India Company established?
+[1664, 1498, 1600, 1602]
+Ans: 1600
+
+200. Who among the following was NOT among the Nine Gems of Akbar's Darbar?
+[Abu'l-Fazl, Raja Man Singh, Mulla Do-Pyaza, Bairam Khan]
+Ans: Bairam Khan
+
+201. According to Ashokan edicts, the account of Kalinga war is mentioned in
+[Major Rock Edict XIII, Major Rock Edict X, Major Rock Edict XIV, Major Rock Edict VIII]
+Ans: Major Rock Edict XIII
+
+
+
+
