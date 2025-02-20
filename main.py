@@ -233,6 +233,8 @@ if file_input > 0 and file_input < 12:
         print('gapyq: Afcat-geo pyq\n')
         print('e100: 100 expected questions\n')
         print('e200: 100-200 expected questions\n')
+        print('e300: 200-300 expected questions\n')
+
 
 
         q_input = input('choose one: ')
@@ -246,6 +248,9 @@ if file_input > 0 and file_input < 12:
             exit()
         elif q_input=='e200':
             QuizGeneratordirect('./100_200expected.txt')
+            exit()
+        elif q_input=='e300':
+            QuizGeneratordirect('./200_300expected.txt')
             exit()
     
     elif file_input==9:
