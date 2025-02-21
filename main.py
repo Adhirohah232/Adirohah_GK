@@ -234,6 +234,8 @@ if file_input > 0 and file_input < 12:
         print('e100: 100 expected questions\n')
         print('e200: 100-200 expected questions\n')
         print('e300: 200-300 expected questions\n')
+        print('e400: 300-400 expected questions\n')
+
 
 
 
@@ -251,6 +253,9 @@ if file_input > 0 and file_input < 12:
             exit()
         elif q_input=='e300':
             QuizGeneratordirect('./200_300expected.txt')
+            exit()
+        elif q_input=='e400':
+            QuizGeneratordirect('./300_400expected.txt')
             exit()
     
     elif file_input==9:

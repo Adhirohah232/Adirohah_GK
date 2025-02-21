@@ -1,0 +1,391 @@
+307. Which of the following is the 57th Tiger Reserve of India?
+[Ratapani Tiger Reserve, Pench Tiger Reserve, Buxa Tiger Reserve, Guru Ghasidas Tiger Reserve]
+Ans: Ratapani Tiger Reserve
+
+308. Canary Island is under the administration of which country and is located in which ocean?
+[Algeria and Atlantic Ocean, Tunisia and Indian Ocean, Spain and Atlantic Ocean, France and Pacific Ocean]
+Ans: Spain and Atlantic Ocean
+
+309. Which of the following countries encircles the Caspian Sea?
+[Kazakhstan Russia Azerbaijan and Iran, Russia Uzbekistan Kazakhstan and Turkmenistan, Azerbaijan Armenia Kazakhstan and Iran, Turkey Russia Iran and Kazakhstan]
+Ans: Kazakhstan Russia Azerbaijan and Iran
+
+310. National Startup Day is celebrated annually on which day?
+[15 January, 19 January, 16 January, 17 January]
+Ans: 16 January
+
+311. What is the theme for world's Pneumonia Day, 2024?
+[Every Breath counts: Stop Pneumonia in Its Track, Championing the fight to stop pneumonia, Pneumonia affects everyone, Stop Pneumonia]
+Ans: Every Breath counts: Stop Pneumonia in Its Track
+
+312. Match the following:
+Festival : District
+(1) Camel festival : (a) Jaisalmer
+(2) Desert festival : (b) Bikaner
+(3) Kite festival : (c) Udaipur
+(4) Mewar festival : (d) Jaipur
+[1-a,2-b,3-d,4-c, 1-b,2-a,3-d,4-c, 1-a,2-b,3-c,4-d, 1-d,2-b,3-d,4-c]
+Ans: 1-a,2-b,3-d,4-c
+
+313. Hemis Festival is a famous Buddhist festival celebrated in which Indian state/UT?
+[Himachal Pradesh, Sikkim, Arunachal Pradesh, Ladakh]
+Ans: Ladakh
+
+314. Simour Nati is a famous dance form from-
+[Himachal Pradesh, Ladakh, Uttar Pradesh, Bihar]
+Ans: Himachal Pradesh
+
+315. Where was the 2nd edition of the annual Indian Military Heritage Festival held?
+[New Delhi, Lucknow, Bangalore, Bhopal]
+Ans: New Delhi
+
+316. Consider the following pairs:
+1. Cherry Blossom festival - Meghalaya
+2. Ambubachi festival - Assam
+3. Wangala festival - Meghalaya
+Which of the above pairs are correctly matched?
+[1 and 2 only, 2 and 3 only, 1 and 3 only, 1, 2 and 3]
+Ans: 2 and 3 only
+
+317. the 10th edition of the India International Science Festival (IISF) was held at?
+[IIT Delhi, IIT Guwahati, IIT Kanpur, NIT Raipur]
+Ans: IIT Guwahati
+
+318. "Mera Hou Chongba" is the cultural festival of solidarity of which of the following states?
+[Arunachal Pradesh, Assam, Sikkim, Manipur]
+Ans: Manipur
+
+319. The famous "Ganga Sagar Mela" is an annual fair held in which Indian State?
+[Bihar, Jharkhand, West Bengal, Uttar Pradesh]
+Ans: West Bengal
+
+320. Which of the following pairs of Buddhist Councils and their corresponding patrons/locations is correctly matched?
+ First Buddhist Council - Ajatashatru - Rajgir
+ Second Buddhist Council - Kanishka - Kashmir
+ Third Buddhist Council - Ashoka - Pataliputra
+[1 and 2, 1 and 3, 2 and 4, 3 and 4]
+Ans: 1 and 3
+
+321. Which of the following are majorly classified as Rabi crops in India? Gram Wheat Mustard Maize
+[1 2 3 4, 1 2 and 3, 1 and 4, 2 and 3]
+Ans: 1 2 and 3
+
+322. Which prestigious award has Indian environmentalist Madhav Gadgil received in 2024?
+[Nobel Prize for Environmental Science, Padma Bhushan, UNEP's Lifetime Achievement Award, Tyler Prize for Environmental Achievement]
+Ans: UNEP's Lifetime Achievement Award
+
+323. Who among the following was the first Indian Football player to receive the Arjuna Award?
+[Jarnail Singh, Yousuf Khan, P. K. Banerjee, Peter Thangaraj]
+Ans: P. K. Banerjee
+
+324. Christine Carla Kangaloo, who was awarded the Pravasi Bharatiya Samman Award 2025, is the president of which country?
+[Guyana, Trinidad and Tobago, Kuwait, None of the above]
+Ans: Trinidad and Tobago
+
+325. The Nobel Prize is not awarded in which of the following fields?
+[Physics, Chemistry, Peace, Mathematics]
+Ans: Mathematics
+
+326. The prestigious Ramon Magsaysay Award is given in memory of the former President of which country?
+[India, Indonesia, Philippines, Thailand]
+Ans: Philippines
+
+327. Which Indian received the first-ever Oscar Award?
+[A.R. Rahman, Bhanu Athaiya, Satyajit Ray, Resul Pookutty]
+Ans: Bhanu Athaiya
+
+328. Who is the first recipient of the Param Vir Chakra, India's highest military decoration for valor?
+[Captain Vikram Batra, Major Somnath Sharma, Flying Officer Nirmal Jit Singh Sekhon, Lance Naik Albert Ekka]
+Ans: Major Somnath Sharma
+
+329. Who was the first woman to receive the Ashoka Chakra, India's highest peacetime gallantry award?
+[Kamlesh Kumari, Neerja Bhanot, Mitali Madhumita, Kalyani Sen]
+Ans: Neerja Bhanot
+
+330. Consider the following statements regarding the Saraswati Samman Award:
+1. It is an annual award presented for outstanding literary work in any Indian language listed in the Eighth Schedule of the Constitution.
+2. It is given by the K.K. Birla Foundation.
+Which of the above statements is/are correct?
+[Only 1, Only 2, Both 1 and 2, Neither 1 nor 2]
+Ans: Both 1 and 2
+
+331. Who has been awarded the Nobel Prize in Literature 2024?
+[Gabriel Garcia, Alexander Pushkin, Han Kang, Haruki Murakami]
+Ans: Han Kang
+
+332. Which Indian temple was selected by UNESCO for the 2023 Award of Distinction for its conservation?
+[Abathsahayeswarar Temple, Mahabodhi Temple, Vrindavan Chandrodaya Temple, Kamakhya Temple]
+Ans: Abathsahayeswarar Temple
+
+333. The order of Mubarak Al-Kabeer is the highest honour of which nation?
+[Kuwait, Qatar, Iran, Saudi Arabia]
+Ans: Kuwait
+
+334. The 2024 Rochdale Pioneers Award has been recently presented to -
+[Dr Udai Shanker Awasthi, Dr vergese kurein, Dr RS sudhi, none]
+Ans: Dr Udai Shanker Awasthi
+
+335. Which country has been honoured with the ISSA Good Practice Award for Asia and Pacific 2024.
+[India, Sri Lanka, China, Nepal]
+Ans: India
+
+336. Which novel of Suryabala has bagged the 34th Vyas Samman?
+[Dikshant, Kaun Des Ko Vasi Venu Ki Diary, Yamini Katha, Katyayani Samvad]
+Ans: Kaun Des Ko Vasi Venu Ki Diary
+
+337. When is international youth day celebrated?
+[12th January, 24th August, 15th October, 12th August]
+Ans: 12th August
+
+338. 'The Race of my Life' is the autobiography of which of the following sportsmen?
+[Mary Kom, PT Usha, Milkha Singh, Saurav Ganguly]
+Ans: Milkha Singh
+
+339. What was the theme of World Migratory Bird Day which was celebrated on 12 October 2024?
+[Planet Vs Plastics, Protect Insects, Protect Birds, Water Sustaining Bird Life, None of the above]
+Ans: Water Sustaining Bird Life
+
+340. Which of the following is incorrect.
+[World Ocean Day - 8 June, World Environment Day - 5 June, World Earth Day - 22 April, World Ozone Day - 18 September]
+Ans: World Ozone Day - 18 September
+
+341. Which of the following days and themes is incorrectly paired?
+[World Ozone Day 2024 - Montreal Protocol: Advancing Climate Action, World Environment Day 2024 - land restoration, desertification and drought resilience, International Day for Biodiversity - Be part of the Plan, World Water Day - Water for Peace, None of the above]
+Ans: None of the above
+
+342. What is the theme of World Wetlands Day 2025?
+[Protecting Wetlands for Our Common Future, Wetlands and Human Wellbeing, Wetlands for sustainable cities, Wetlands  The Ultimate Future]
+Ans: Protecting Wetlands for Our Common Future
+
+343. The 2024 Best Tourism Village Award for heritage was won by-
+[Andro Manipur, Sialsuk Mizoram, Mawphlang Meghalaya, Kuthlur Karnataka]
+Ans: Andro Manipur
+
+344. INSAT 3D, a satellite launched by ISRO, is used for which primary purpose?
+[Navigation, Communication, Weather forecasting, Earth observation]
+Ans: Weather forecasting
+
+345. Which Indian temple won the 'Sword of Honour' award for safety excellence?
+[Ram Temple Ayodhya, Kashi Vishwanath Temple Varanasi, Krishna Janmabhoomi Temple Mathura, Maa Vindhyavasini Temple Mirzapur]
+Ans: Ram Temple Ayodhya
+
+346. Which Indian ecologist won the Champions of the Earth award 2024?
+[Vandana Shiva, Madhav Gadgil, Jadav Payeng, Rajendra Singh]
+Ans: Madhav Gadgil
+
+347. "Cheri" and "Kalbeliya" are famous dance forms of which state?
+[Jammu and Kashmir, Andhra Pradesh, Rajasthan, Gujarat]
+Ans: Rajasthan
+
+348. India Will Have Its Own Space Station By ________ Which Will Be Known As "Bharatiya Antriksh Station".
+[2030, 2035, 2040, 2070]
+Ans: 2035
+
+349. In which of the following states is the 'Eco Retreat' festival held every year?
+[Kerala, Odisha, Tamil Nadu, Bihar]
+Ans: Odisha
+
+350. Which of the following is the theme country of the 46th International Kolkata Book Fair?
+[Poland, Italy, Spain, Germany]
+Ans: Spain
+
+351. The Hornbill Festival is celebrated in which Indian state?
+[Manipur, Nagaland, Assam, Arunachal Pradesh]
+Ans: Nagaland
+
+352. Pongal is a famous harvest festival primarily celebrated in which Indian state?
+[Kerala, Karnataka, Tamil Nadu, Andhra Pradesh]
+Ans: Tamil Nadu
+
+353. In India, how many states share the coastline?
+[5, 7, 9, 10]
+Ans: 9
+
+354. Duck is related to which of the following sports?
+[Hockey, Football, Cricket, Volleyball]
+Ans: Cricket
+
+355. 'Sangken' is a festival celebrated in Arunachal Pradesh by people of which of the following religions?
+[Hinduism, Jainism, Buddhism, Islam]
+Ans: Buddhism
+
+356. Vizhinjam International Seaport, is located in which state?
+[Kerala, Karnataka, Maharashtra, Tamil Nadu]
+Ans: Kerala
+
+357. The first International Solar Festival was held in which Indian city?
+[New Delhi, Mumbai, Lucknow, Bengaluru]
+Ans: New Delhi
+
+358. Which of the following is NOT a Dance from ASSAM?
+[Sattriya, Bhortaal, Deodhani, Gussadi]
+Ans: Gussadi
+
+359. Who among the following sports persons is credited with the autobiography 'Undisputed Truth'?
+[Mike Tyson, Muhammad Ali, Mathew Hayden, Kevin Pietersen]
+Ans: Mike Tyson
+
+360. The Bharatmala project of the Government of India comes under which of the following Ministries of India?
+[Ministry of Ports Shipping and Waterways, Ministry of Environment and Forest and Climate Change, Ministry of Home Affairs, Ministry of Road Transport and Highways]
+Ans: Ministry of Road Transport and Highways
+
+361. Tulsi Gowda, who passed away recently, is related to which field?
+[Environmentalist, Educationist, Musician, Diplomat]
+Ans: Environmentalist
+
+362. Which of the following is the capital of Scotland?
+[Glasgow, Edinburgh, Aberdeen, Perth]
+Ans: Edinburgh
+
+363. Which of the following pairs of countries and capitals is incorrect.
+[Denmark - Copenhagen, Spain- Madrid, South Korea - Pyongyang, Moldova - Chișinău]
+Ans: South Korea - Pyongyang
+
+364. Washinton DC is situated on which river?
+[Potomac, Danube, Seine, Saône]
+Ans: Potomac
+
+365. Kerch Strait, which was seen in the news, connects which two water bodies?
+[Arabian Sea and South China Sea, Black Sea and Sea of Azov, Red Sea and Black Sea, Baltic Sea and Bering Sea]
+Ans: Black Sea and Sea of Azov
+
+366. Philadelphia Corridor, which was seen in the news, is located along the border of Gaza and which country?
+[Iran, Egypt, Iraq, Kuwait]
+Ans: Egypt
+
+367. Guantánamo Bay, is located on which island of the Caribbean?
+[Cuba, Nicaragua, Puerto Rico, Cayman Islands]
+Ans: Cuba
+
+368. Mount Semeru, which was seen in news due to a volcanic eruption, is located in which country?
+[Vietnam, Indonesia, Philippines, Malaysia]
+Ans: Indonesia
+
+369. The Mayotte territory, which recently witnessed Cyclone Chido, is situated in which ocean?
+[Arctic Ocean, Pacific Ocean, Indian Ocean, Atlantic Ocean]
+Ans: Indian Ocean
+
+370. Kilauea Volcano is located in which country?
+[Kuantan (Malaysia), Andaman (India), Hawaii (United States of America), Sumatra (Indonesia)]
+Ans: Hawaii (United States of America)
+
+371. Which organization released the World Economic Situation and Prospects 2025 report?
+[UN, World Bank, Asian Development Bank, IMF]
+Ans: UN
+
+372. Which university is named India's most sustainable university, as per "QS World University Rankings: Sustainability 2025"?
+[IIT Kanpur, IIT Bombay, IIT Roorkee, IIT Delhi]
+Ans: IIT Delhi
+
+373. Which country has introduced a new 'Tourism tax' in January 2025?
+[China, USA, Russia, Uzbekistan]
+Ans: Russia
+
+374. National Bird Day is celebrated on which day?
+[2 January, 5 January, 7 January, 11 January]
+Ans: 5 January
+
+375. What is the theme of World Hindi Day 2025?
+[A Global Voice of Unity and Cultural Pride, Hindi - Bridging Traditional Knowledge and Artificial Intelligence, Hindi: Expanding Global Reach and Cultural Connection, Hindi's role in uniting diverse communities]
+Ans: A Global Voice of Unity and Cultural Pride
+
+376. Electronic Services e-Health Assistance and Tele-consultation (E-SeHAT) module was launched by which Armed Force?
+[Indian Navy, Indian Airforce, Indian Army, Indian Coast Guard]
+Ans: Indian Army
+
+377. The BMP-2 Sarath is an Infantry Fighting Vehicle (IFV) used by which country's armed forces?
+[India, Russia, Ukraine, USA]
+Ans: India
+
+378. Which two companies have partnered to establish a Maintenance, Repair and Overhaul (MRO) facility of C-130J in India.
+[Lockheed Martin and Hindustan Aeronautics Limited, Boeing and Tata Advanced Systems Limited, Lockheed Martin and Tata Advanced Systems Limited, Airbus and Hindustan Aeronautics Limited]
+Ans: Lockheed Martin and Tata Advanced Systems Limited
+
+379. Which two countries have recently signed a civil nuclear cooperation agreement which is also known as the '123 Agreement'.
+[India and USA, India and Russia, India and France, India and Israel]
+Ans: India and USA
+
+380. Tata Aircraft Complex, India's first private military aircraft factory was recently inaugurated at?
+[Hyderabad Telangana, Bengaluru Karnataka, Vadodara Gujarat, Chennai Tamil Nadu]
+Ans: Vadodara Gujarat
+
+381. Which city has become home to India's first Green Hydrogen Hub under the National Green Hydrogen Mission?
+[Visakhapatnam Andhra Pradesh, Indore Madhya Pradesh, Vadodara Gujarat, Jaipur Rajasthan]
+Ans: Visakhapatnam Andhra Pradesh
+
+382. Which organization released the Future of Jobs Report 2025?
+[World Economic Forum (WEF), World Bank, International Monetary Fund (IMF), United Nations Development Programme (UNDP)]
+Ans: World Economic Forum (WEF)
+
+383. Which state/UT is the host of Khelo India Winter Games (KIWG) 2025?
+[Ladakh, Uttarakhand, New Delhi, Himachal Pradesh]
+Ans: Ladakh
+
+384. The world's first high-altitude para sports centre is being set up in which city?
+[Beijing, Gulmarg, Leh, Tawang]
+Ans: Leh
+
+385. Harinder Singh Sodhi, who recently passed away, was associated with which sports?
+[Cricket, Polo, Badminton, Tennis]
+Ans: Polo
+
+386. Which country has released prototypes of the world's fastest high-speed train?
+[India, China, Japan, USA]
+Ans: China
+
+387. What is INS Varsha?
+[A Nuclear Submarine, A Naval Base in BoB, An Aircraft Carrier, A Destroyer]
+Ans: A Naval Base in BoB
+
+388. Smt Droupadi Murmu conferred the Honorary Rank of General of the Indian Army on the General of which country?
+[Bhutan, Nepal, Maldives, Bangladesh]
+Ans: Nepal
+
+389. Consider the following statements The FIDE World Chess Championship 2024 was held in Singapore. The 2024 Candidates Tournament was held in Toronto, Canada.
+Which of the above statements is/are correct.
+[1 only, 2 only, Both 1 and 2, Neither 1 nor 2]
+Ans: 2 only
+
+390. The census Operations in India have been carried out in how many phases in the year 2011?
+[7, 2, 3, 4]
+Ans: 2
+
+391. Which of the following port of India is also known as 'Queen of the Arabian Sea'?
+[Mumbai, Kochi, Kolkata, Mormugao]
+Ans: Kochi
+
+392. Which National Waterway (NW) connects Krishna and Godavari Rivers?
+[National Waterway-2, National Waterway-3, National Waterway-4, National Waterway- 6]
+Ans: National Waterway-4
+
+393. Which of the following startups has NOT been selected under India's National Quantum Mission to advance quantum technology?
+[QNu Labs (Bengaluru), Pristine Diamonds Pvt. Ltd. (Ahmedabad), Dimira Technologies Pvt. Ltd. (IIT Mumbai), Pine Labs(Mumbai)]
+Ans: Pine Labs(Mumbai)
+
+394. "Point Nemo" also known as the Oceanic Pole of Inaccessibility(the most remote location on earth), was in the news recently. In which ocean is this point located?
+[South Pacific Ocean, Arctic Ocean, Indian Ocean, Atlantic Ocean]
+Ans: South Pacific Ocean
+
+395. NH-44 runs from -
+[Srinagar to Kanyakumari, Sitarganj in Uttarakhand to Ibrahimpatnam in Andhra Pradesh, Jorabat in Meghalaya to Selling in Mizoram, Rann of Kutch, connecting Bhuj and Dholavira]
+Ans: Srinagar to Kanyakumari
+
+396. India's first vertical lift railway bridge, the Pamban Bridge is in which state?
+[Tamil Nadu, Kerala, Karnataka, Andhra Pradesh]
+Ans: Tamil Nadu
+
+397. What is "Nafithromycin" which was in the news recently?
+[A newly discovered plant chemical, A newly discovered Animal cell, A Macrolide antibiotic, None of the above]
+Ans: A Macrolide antibiotic
+
+398. "Ningol Chakkouba", which was in the news recently, is a famous festival of which state?
+[Manipur, Nagaland, Tripura, Sikkim]
+Ans: Manipur
+
+399. Which of the following is the correct chronological sequence of Tennis Grand Slam Tournaments in a calendar year:
+[Wimbledon French Open US Open Australian Open, Australian Open French Open Wimbledon US Open, French Open Australian Open US Open Wimbledon, Australian Open Wimbledon French Open US Open]
+Ans: Australian Open, French Open, Wimbledon, US Open
+
+400. Which of the two countries listed below are divided by the Blue Line, a boundary set by the United Nations?
+[Syria and Israel, Lebanon and Syria, Israel and Jordan, Lebanon and Israel]
+Ans: Lebanon and Israel
